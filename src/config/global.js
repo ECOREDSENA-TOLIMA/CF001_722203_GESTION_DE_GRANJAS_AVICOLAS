@@ -1,19 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Plan de manejo ambiental, monitoreo y valoración ',
+    descripcionCurso:
+      'El sector avícola colombiano ha venido trabajando desde hace más de 20 años para mejorar el plan de manejo ambiental, así como las producciones respecto a prácticas, instalaciones, protocolos, equipos e indumentaria para reducir y minimizar su impacto. Es así que, desde las perspectivas normativas se han implementado las siguientes políticas: bioseguridad, buenas prácticas y producciones limpias, entre otras.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
