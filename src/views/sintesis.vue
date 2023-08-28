@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El componente formativo de “Plan de manejo ambiental, monitoreo y valoración” en el ámbito de las granjas avícolas juega un papel fundamental para garantizar la sostenibilidad y el cuidado del medio ambiente. Este enfoque integral abarca la implementación de responsables en el manejo de insumos, la gestión adecuada de los residuos sólidos y la reducción de la huella de carbono. Además, implica el cumplimiento de la normativa ambiental vigente y la adopción de sistemas de gestión ambiental basados en la norma ISO 14001:2015. Mediante el monitoreo y la valoración ambiental, se evalúa el desempeño y se identifican oportunidades de mejora, contribuyendo así a una producción avícola más sostenible y responsable.
 
     .row.justify-content-center
       .col-lg-10.mb-5

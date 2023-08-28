@@ -17,3 +17,106 @@
 
   100%
     transform: translateY(0px)
+
+.cajon.color-secundario
+  background-color: $color-adicional-1
+
+.cajon.color-acento-contenido
+  background-color: lighten($color-acento-contenido, 50%)
+
+.fondo-color-primario
+  background-color: #FFE8CE
+  border-radius: 20px
+
+.fondo-color-primario2
+  background-color: lighten($color-primario, 55%)
+  border-radius: 20px
+
+.lista-ul--color li > i:first-of-type
+  color: $color-primario
+  background-color: #9CFDFF
+  border-radius: 20px
+
+.lista-ol--cuadro__vineta
+  background-color: $color-primario
+  border-radius: 20px
+
+.tarjeta.tarjeta--azul
+  background-color: $color-acento-contenido
+
+.tarjeta.tarjeta--azul.acordion__activo 
+  background-color: #FFE8CE
+
+.tabs-b__tab
+  background-color: lighten($color-acento-contenido, 40%)
+
+.tabs-b.color-primario .tabs-b__tab--active
+  background-color: lighten(#707070, 50%)
+
+.tabs-b__content-item
+  background-color: lighten(#707070, 50%)
+
+.tabs-b__tab__title
+  font-weight: bolder
+
+.cajon-b.color-primario:before
+  background-color: lighten($color-primario, 40%)
+
+.cajon-b:before
+  width: 200px
+  height: 55px
+  margin-top: 10px
+
+img.img-slider
+  border-top-left-radius: 20px
+  border-top-right-radius: 20px
+  border-bottom: 5px solid $color-primario
+
+@media (min-width: 992px)
+  .desktop
+    display: inline
+  .movil
+    display: none
+@media (max-width: 991px)
+  .movil
+    display: inline
+  .desktop
+    display: none
+
+.tarjeta.color-acento-contenido > .texto-p
+  font-size: 0.9rem
+
+.tema5
+  .tarjeta-avatar 
+    height: 90%
+    position: relative
+    padding-top: 42px
+    .tarjeta 
+      padding-left: 1.2rem
+      padding-right: 1.2rem
+      p
+        font-weight: bold
+  .tarjeta.tarjeta--custom
+    background-color: #FFE8CE
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px
+
+.tarjeta--gris
+  background-color:#FFDBDB
+
+.tarjeta.color-acento-botones10
+  background-color: lighten($color-acento-botones, 39%)
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: $color-acento-botones
+
+.BGIMG03
+  border-radius: 30px
+  background-color: lighten($color-acento-contenido, 50%)
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.tabla-a th
+  background-color: $color-primario
+  color: #fff
+
