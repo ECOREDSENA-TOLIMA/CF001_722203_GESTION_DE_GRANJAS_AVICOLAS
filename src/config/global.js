@@ -151,7 +151,7 @@ export default {
         subMenu: [
           {
             numero: '7.1',
-            titulo: 'Medidas de prevención, mitigación, control y compensació',
+            titulo: 'Medidas de prevención, mitigación, control y compensación',
             hash: 't_7_1',
           },
           {
@@ -232,7 +232,7 @@ export default {
       referencia:
         'Wilmer Ortega (2019). Clasificación de residuos sólidos. 2019. [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=J2lcgWUqS9',
+      link: 'https://www.youtube.com/watch?v=J2lcgWUqS98',
     },
   ],
   glosario: [
@@ -284,7 +284,7 @@ export default {
     {
       termino: 'Olores ofensivos',
       significado:
-        'es el olor, generado por sustancias o actividades industriales, comerciales o de servicio, que produce fastidio, aunque no cause daño a la salud humana Sustancia de olor ofensivo: Es aquella que, por sus propiedades organolépticas, composición y tiempo de exposición puede causar olores desagradables (Cornare, 2014).',
+        'es el olor generado por sustancias o actividades industriales, comerciales o de servicio, que produce fastidio, aunque no cause daño a la salud humana (Cornare, 2014)',
     },
     {
       termino: 'Patógenos',
@@ -450,13 +450,13 @@ export default {
       referencia:
         'Norma Técnica colombiana NTC - ISO 14001 (2014), Instituto Colombiano de Normas Técnicas y Certificación. Por la cual se actualizan los requisitos para el uso de la norma para el sistema de gestión ambiental.',
       link:
-        'https://www.umng.edu.co/documents/20127/517101/NTC_ISO_14001_2015.pdf/22ca7367-248d-7d00-ab9f-6251faf9ea75?t=1575487373967',
+        'https://www.ramajudicial.gov.co/documents/8957139/22744716/NORMA+14001+%281%29%281%29.pdf/c26b5d90-20ba-4af0-8e4a-3ae1c45315e2',
     },
     {
       referencia:
         'Norma Técnica colombiana NTC-ISO 5167. Productos Orgánicos Usados como Abonos o Fertilizantes.',
       link:
-        'https://www.cali.gov.co/dagma/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=31838',
+        'https://www.emcali.com.co/web/normograma/inicio/-/document_library/bVwXGToT8nTh/view_file/163565',
     },
     {
       referencia:

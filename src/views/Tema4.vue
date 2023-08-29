@@ -8,14 +8,11 @@
       h1 Plan de mejora 
 
     .d-flex.flex-wrap.mb-5
-      .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
+      .col-xl-7.pe-xl-5.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
         .cajon.color-primario.p-4.d-flex.flex-wrap(data-aos="fade-right")
           .col-md-11.ps-lg-4
-            p La norma ISO 14001 llamada “Sistemas de gestión ambiental”, es un plan operativo diseñado para que las empresas u organizaciones implementen buenas prácticas ambientales y se certifiquen en el manejo responsable de todo material derivado de sus quehaceres, con lo cual se disminuye la afectación del ambiente. 
-              br
-              br
-              | Las instituciones que lo hagan estarán demostrando que están llevando a cabo sus actividades productivas de acuerdo a los estándares que se han fijado en cuanto a materia medioambiental promoviendo la protección del medio natural, la prevención de la contaminación y es el estándar internacional.
-      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema4/img-1.png" data-aos="fade-left" style="max-width: 400px")
+            p La norma ISO 14001 llamada “Sistemas de gestión ambiental”, es un plan operativo diseñado para que las empresas u organizaciones implementen buenas prácticas ambientales y se certifiquen en el manejo responsable de todo material derivado de sus quehaceres, con lo cual se disminuye la afectación del ambiente. Las instituciones que lo hagan estarán demostrando que están llevando a cabo sus actividades productivas de acuerdo a los estándares que se han fijado en cuanto a materia medioambiental promoviendo la protección del medio natural, la prevención de la contaminación y es el estándar internacional.
+      img.mb-4.mb-xl-0.col-xl-5.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema4/img-1.png" data-aos="fade-left" style="max-width: 500px")
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10.col-lg-9.mb-4.mb-md-0(data-aos="fade-left")
@@ -46,24 +43,20 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.2 Separación en la fuente? 
+      h2#t_1_1 4.2 Separación en la fuente
     
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
         img.mb-4.mb-md-0.mx-auto(src="@/assets/curso/temas/tema4/decorador-2.svg" data-aos="fade-right" style="max-width: 100px")
-      p.col.mb-0.col-md-9.col-lg-11.ps-lg-4(data-aos="fade-left") La Separación en la fuente es la actividad que permite seleccionar y almacenar los diferentes residuos sólidos en su lugar de origen para facilitar su posterior manejo y aprovechamiento; es un mecanismo efectivo para mitigar el impacto negativo de los residuos sólidos en el medio ambiente y prolongar la vida útil de los rellenos sanitarios, pero para esto, se necesita que esta actividad se convierta en un hábito cotidiano de todos los hogares y demás grupos de la sociedad.
+      p.col.mb-0.col-md-9.col-lg-11.ps-lg-4(data-aos="fade-left") La separación en la fuente es la actividad que permite seleccionar y almacenar los diferentes residuos sólidos en su lugar de origen, para facilitar su posterior manejo y aprovechamiento; es un mecanismo efectivo para mitigar el impacto negativo de los residuos sólidos en el medio ambiente y prolongar la vida útil de los rellenos sanitarios, pero para esto, se necesita que esta actividad se convierta en un hábito cotidiano de todos los hogares y demás grupos de la sociedad.
 
     Separador
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 4.3 Reducir, reutilizar y reciclar 
 
-    p A esto se le llama la regla de las tres erres (3R) y se aplica para cuidar el medio ambiente, específicamente para reducir el volumen de residuos o basuras que se generan diariamente. En pocas palabras, las 3R ayudan a tirar menos basura, a ahorrar y a ser un consumidor más consciente y responsable. A continuación, se menciona el significado de las 3R, con el fin de que como aprendiz adquiera el lenguaje técnico que requiere: 
+    p.mb-5 A esto se le denomina la regla de las tres erres (3R) y es una estrategia que busca cuidar el medio ambiente al reducir la cantidad de residuos generados diariamente. Estas tres erres promueven la reducción de basura, el ahorro y un consumo más consciente. A continuación, se detalla el significado de las 3R:
     
-    .cajon-b.color-primario.p-3.mb-5
-      p.mb-0 <strong>Regla de las 3R</strong>
-      p El ser humano es responsable del cuidado del planeta, por lo que se está creando conciencia social colectiva sobre el tema, por esa razón es importante que conozca el significado de la Regla de las 3R y aprenda a usarla en su vida diaria.
-
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
         figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
@@ -71,6 +64,8 @@
         figure.movil.mt-0  
           .row.justify-content-center.d-lg-none.d-md-none  
             img.pb-5(src="@/assets/curso/temas/tema4/cuadro-2.svg" data-aos="zoom-in-up" alt="")
+
+    p.mb-5 Estas tres acciones combinadas buscan minimizar el impacto ambiental de nuestras acciones diarias y promover un estilo de vida más sostenible.
 
     .tarjeta.color-primario.p-3.mt-3.caja_flotante_azul.col-md-9.m-auto.mb-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
@@ -85,22 +80,56 @@
               a.boton.boton--b.color-acento-botones(href="https://youtu.be/rRCZzrMjiY0" target="_blank")
                 span(style="color: #12263F !important;") Ir al sitio web
                 i.fas.fa-link(style="color: #12263F !important;")
-    
-    Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 4.4 Tipos de rotulado y características de almacenamiento 
 
-    .row.mb-5.justify-content-center.align-items-center
+    .row.mb-3.justify-content-center.align-items-center
       .col-12.col-md-5.mb-5.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img-3.png', alt='')  
       .col-12.col-md-7.mb-lg-0(data-aos="fade-left")
-        p Como se ha mencionado anteriormente, es necesario hacer uso de las 3R, por lo que de acuerdo al Ministerio de la Protección Social los recipientes utilizados para el almacenamiento de residuos sólidos deben tener como mínimo las siguientes características: estar construidos en material rígido, impermeable y resistente a los golpes, que facilite la limpieza y desinfección, además es importante que sean livianos y de un tamaño que permita almacenar los residuos entre recolecciones.   
-        p Si se utilizan bolsas desechables estas deben ser resistentes con el fin de que soporten el peso de los residuos contenidos y su manipulación, de un calibre que garantice que no habrá derrame durante la recolección, almacenamiento y disposición final de los residuos que contengan. 
-        p En cuanto al lugar de almacenamiento debe reunir como mínimo las siguientes características: estar lejos de las áreas de bodega, almacenamiento y preparación de alimentos, galpones y área administrativa, debe permitir realizar actividades de limpieza y desinfección, de fácil acceso para los vehículos recolectores.  Solamente se podrán almacenar residuos sólidos y deberá estar correctamente direccionado. Además, deberá contar con recolectores impermeables provistos de tapa que impidan el ingreso de plagas o humedezcan su contenido. 
+        p Tal como se ha abordado previamente, la adopción de las 3R es fundamental. En relación a ello, el Ministerio de la Protección Social destaca que los recipientes utilizados para almacenar residuos sólidos deben cumplir con al menos las siguientes cualidades:
+        ul.lista-ul
+          li 
+            i.lista-ul__vineta
+            | Material resistente y rígido: los recipientes deben estar fabricados con un material sólido y fuerte, que garantice durabilidad y evite roturas.
+          li 
+            i.lista-ul__vineta
+            | Impermeabilidad: es crucial que el material sea impermeable para prevenir filtraciones de líquidos o humedad que puedan afectar su contenido y causar contaminación.
+          li  
+            i.lista-ul__vineta
+            | Resistencia a golpes: los recipientes deben ser capaces de soportar impactos sin dañarse, asegurando así su funcionalidad a largo plazo.
+          li  
+            i.lista-ul__vineta
+            | Facilidad de limpieza y desinfección: deben ser diseñados de manera que su limpieza y desinfección sean sencillas, evitando la acumulación de residuos y posibles focos de contaminación.
+          li  
+            i.lista-ul__vineta
+            | Livianos y tamaño adecuado: deben ser lo suficientemente livianos para su manipulación y contar con un tamaño que permita almacenar los residuos entre las recolecciones programadas.
+        p El cumplimiento de estas características garantiza un manejo adecuado de los residuos sólidos, contribuyendo a mantener un ambiente limpio y saludable.
 
-    p.mb-5 A continuación, se describen algunos tipos de productos sólidos que de acuerdo a su naturaleza se pueden clasificar según se indica en la siguiente infografía interactiva. 
+    p Cuando se emplean bolsas desechables, es importante que estas sean lo suficientemente resistentes para soportar el peso de los residuos y su manipulación. Deben tener un calibre que asegure que no haya derrames durante la recolección, almacenamiento y disposición final de los residuos que contengan.
+    p En cuanto al lugar de almacenamiento de los residuos, debe cumplir con al menos las siguientes características:
+    ul.lista-ul.mb-3
+      li 
+        i.lista-ul__vineta
+        | Ubicación adecuada: debe estar ubicado lejos de áreas de bodega, almacenamiento y preparación de alimentos, galpones y zonas administrativas.
+      li 
+        i.lista-ul__vineta
+        | Facilidad de limpieza: debe permitir la realización de actividades de limpieza y desinfección, evitando la acumulación de suciedad y posibles focos de contaminación.
+      li  
+        i.lista-ul__vineta
+        | Accesibilidad: debe ser de fácil acceso para los vehículos recolectores, facilitando la recolección de los residuos.
+      li  
+        i.lista-ul__vineta
+        | Residuos sólidos exclusivamente: solamente se deben almacenar residuos sólidos en este lugar.
+      li  
+        i.lista-ul__vineta
+        | Dirección clara: debe estar correctamente señalizado y direccionado para su identificación.
+      li  
+        i.lista-ul__vineta
+        | Recipientes adecuados: los contenedores o recolectores utilizados deben ser impermeables y contar con tapa para evitar el ingreso de plagas y la humedad de su contenido.
+    p.mb-5 Cumplir con estas directrices asegura un manejo eficiente y seguro de los residuos sólidos, reduciendo riesgos y promoviendo un entorno limpio y saludable. A continuación, se describen algunos tipos de productos sólidos que, según su naturaleza, pueden clasificarse tal como se indica en la siguiente infografía interactiva.
 
     ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
@@ -108,33 +137,33 @@
           img(src='@/assets/curso/temas/tema4/img-4.svg', alt='Texto que describa la imagen')
 
       .tarjeta.color-primario.p-3(x="61.5%" y="27%" numero="1")
-        .h5.mb-2 <em>Productos reciclables</em>
-        p Son productos que podrán ser reutilizados en el futuro, siempre y cuando se haya realizado una correcta segregación de residuos. Es el caso de los productos que se utilizan a diario en las empresas y  hogares, tales como:
+        .h5.mb-2 Productos reciclables
+        p Son productos que podrán ser reutilizados en el futuro, siempre y cuando se haya realizado una correcta segregación de residuos. Es el caso de los productos que se utilizan a diario en las empresas y hogares, tales como:
         .col-sm.mb-5.mb-sm-0
           ul.lista-ul--color
             li 
               i.fas.fa-check
-              | Papel y cartón (contenedor azul)
+              | Papel y cartón (contenedor azul).
             li 
               i.fas.fa-check
-              | Vidrio (contenedor verde)
+              | Vidrio (contenedor verde).
             li 
               i.fas.fa-check
-              | Plásticos y envases (contenedor amarillo)
+              | Plásticos y envases (contenedor amarillo).
             li 
               i.fas.fa-check
               | Los metales.
 
       .tarjeta.color-primario.p-3(x="50%" y="92%" numero="2")
-        .h5.mb-2 <em>Productos biodegradables</em>
+        .h5.mb-2 Productos biodegradables
         p Son aquellos productos que se pueden descomponer siguiendo el proceso lógico y natural de la propia naturaleza.
         p Es el caso de productos como: restos de comida, cáscaras de fruta, restos de jardinería, y forraje para animales.
         p Este tipo de productos se pueden convertir, por ejemplo, en productos naturales como el compost.
 
       .tarjeta.color-primario.p-3(x="23.5%" y="55.5%" numero="3")
-        .h5.mb-2 <em>Baterías y productos electrónicos</em>
-        p Es de vital importancia separar este tipo de residuos de otros, ya que su alto grado de contaminación supone una seria amenaza para el equilibrio del entorno. Recuerde que estos deben ser separados y depositados en lugares aptos para su tratamiento.
-        p Cada vez es más habitual encontrar puntos limpios de recogida en las ciudades, para poder desechar este tipo de instrumentos y que no entren en el mismo proceso que otros productos.
+        .h5.mb-2 Baterías y productos electrónicos
+        p Es de vital importancia separar este tipo de residuos de otros, ya que su alto grado de contaminación representa una grave amenaza para el equilibrio del entorno. Es crucial recordar que estos deben ser separados y depositados en lugares adecuados para su tratamiento.
+        p Cada vez es más común encontrar puntos de recogida específicos en las ciudades, diseñados para desechar este tipo de materiales, evitando que sean procesados junto con otros productos.
 
     p.mb-5 Como se puede apreciar, es de vital importancia considerar diversos elementos al gestionar empresas avícolas en Colombia, dado que el cumplimiento de estos estándares, cuando se determina en buenas prácticas aplicadas diariamente, genera productos de calidad que se comercializan tanto a nivel nacional como internacional.
 

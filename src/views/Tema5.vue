@@ -8,7 +8,7 @@
       h1 Plan de gestión integral de residuos sólidos (PGIRS)
 
     .cajon-b.color-primario.p-3.mb-5
-      p.mb-0 Para tener una idea general de qué es el plan de gestión de residuos sólidos y cómo se aplica a la vida cotidiana le invito a ver el video “Planes de gestión integral de residuos sólidos”, que se encuentra a continuación. 
+      p.mb-0 Para obtener una visión general de qué es un plan de gestión de residuos sólidos y cómo se aplica en la vida cotidiana, te invito a ver el video titulado "Planes de Gestión Integral de Residuos Sólidos", el cual se encuentra a continuación.
 
     .tarjeta.color-primario.p-3.mt-3.caja_flotante_azul.col-md-9.m-auto.mb-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
@@ -34,39 +34,33 @@
           br
           | De acuerdo con lo establecido en el Decreto 1713 (2002), un residuo sólido es cualquier objeto, material, sustancia o elemento sólido que resulta del consumo o uso de un bien en actividades domésticas, industriales, comerciales, institucionales y de servicios que el generador abandona, rechaza o entrega, y que es susceptible de aprovechamiento o transformación en un nuevo bien, con valor económico o de disposición final. De forma general estos, pueden dividirse en tres grupos, para conocerlos revise el siguiente objeto digital de aprendizaje: 
 
-    .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
-        .tarjeta.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema5/decorador-1.svg', alt='Texto que describa la imagen')
+    .row.mb-5(data-aos="fade-right")
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/temas/tema5/decorador-1.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul2
+            .p-4
+              h4.text-center Residuo sólido aprovechable
+              p.text-center Es cualquier material, objeto, sustancia o elemento sólido que no tiene valor de uso directo o indirecto para quien lo genere, pero que es susceptible de incorporación a un proceso productivo. 
+              p.text-center Entre los aprovechables, se encuentran: papel blanco usado por ambas caras, papel de archivo, cartón, papel cartón y plastificado, papel periódico, revistas, plástico, vidrio, madera y metal, entre otros.
 
-          h3.text-center(style="color: #000") Residuo sólido aprovechable
-          p.text-center(style="color: #000") Es cualquier material, objeto, sustancia o elemento sólido que no tiene valor de uso directo o indirecto para quien lo genere, pero que es susceptible de incorporación a un proceso productivo. 
-          p.text-center(style="color: #000") Entre los aprovechables, se encuentran: papel blanco usado por ambas caras, papel de archivo, cartón, papel cartón y plastificado, papel periódico, revistas, plástico, vidrio, madera y metal, entre otros.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/temas/tema5/decorador-2.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul3
+            .p-4
+              h4.text-center Residuo sólido no aprovechable
+              p.text-center Es todo material o sustancia sólida o semisólida de origen orgánico e inorgánico, putrescible o no, que proviene de actividades domésticas, industriales, comerciales, institucionales y de servicios que no ofrece alguna posibilidad de aprovechamiento, reutilización o reincorporación en un proceso productivo.
+              p.text-center Son aquellos, que no tienen algún valor comercial, requieren tratamiento y disposición final que genera costo para su disposición.
 
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
-        .tarjeta.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema5/decorador-2.svg', alt='Texto que describa la imagen')
-
-          h3.text-center(style="color: #000") Residuo sólido no aprovechable
-          p.text-center(style="color: #000") Es todo material o sustancia sólida o semisólida de origen orgánico e inorgánico, putrescible o no, que proviene de actividades domésticas, industriales, comerciales, institucionales y de servicios <strong style="color: #000">que no ofrece alguna posibilidad de aprovechamiento, reutilización o reincorporación en un proceso productivo.</strong>
-          p.text-center(style="color: #000") Son aquellos, que no tienen algún valor comercial, requieren tratamiento y disposición final que genera costo para su disposición.
-
-      .col-sm-6.col-lg-4.mb-4.mb-sm-0
-        .tarjeta.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema5/decorador-3.svg', alt='Texto que describa la imagen')
-
-          h3.text-center(style="color: #000") Residuos peligrosos
-          p.text-center.texto-p(style="color: #000") Estos están definidos como aquellos que, <strong style="color: #000">por sus características infecciosas, tóxicas, explosivas, corrosivas, inflamables, volátiles, combustibles, radiactivas o reactivas puedan causar riesgo a la salud humana o deteriorar la calidad ambiental hasta niveles que causen riesgo a la salud humana.</strong>
-          p.text-center.texto-p(style="color: #000") Son aquellos que sin serlo en su forma original se transforman por procesos naturales en residuos peligrosos. Así mismo, se consideran peligrosos los siguientes elementos: los envases, empaques y embalajes que hayan estado en contacto con ellos.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/temas/tema5/decorador-3.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul4
+            .p-4
+              h4.text-center Residuos peligrosos
+              p.text-center Estos están definidos como aquellos que, por sus características infecciosas, tóxicas, explosivas, corrosivas, inflamables, volátiles, combustibles, radiactivas o reactivas puedan causar riesgo a la salud humana o deteriorar la calidad ambiental hasta niveles que causen riesgo a la salud humana.
+              p.text-center Son aquellos que sin serlo en su forma original se transforman por procesos naturales en residuos peligrosos. Así mismo, se consideran peligrosos los siguientes elementos: los envases, empaques y embalajes que hayan estado en contacto con ellos.
 
     p.mb-5 Todos los residuos sólidos generados durante las diferentes actividades humanas y económicas, deben recibir una disposición final adecuada, con el fin de evitar la contaminación ambiental y contribuir con la conservación de los recursos naturales. (Decreto 1713, 2002)
 
@@ -79,8 +73,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4 Guía rápida de alternativas para el manejo de residuos sólidos ordinarios en la granja.  
-                  p.text-small Para profundizar sobre el manejo de residuos sólidos puede revisar la “Guía Rápida de Alternativas para el Manejo de Residuos Sólidos ordinarios en la Granja” generado por la Federación Nacional de Avicultores - FENAVI
+                  h4 Guía rápida de alternativas para el manejo de residuos sólidos ordinarios en la granja
+                  p.text-small Para profundizar sobre el manejo de residuos sólidos puede revisar la “Guía rápida de alternativas para el manejo de residuos sólidos ordinarios en la granja” generado por la Federación Nacional de Avicultores - FENAVI.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://fenavi.org/wp-content/uploads/2018/05/Guia_Rapida_Ambiental_Manejo_Residuos_Solidos.pdf" target="_blank")
                     span Descargar
@@ -89,7 +83,7 @@
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 1.
-        span <em>Clasificación de los residuos sólidos en el sector avícola.</em>
+        span <em>Clasificación de los residuos sólidos en el sector avícola</em>
       img.d-md-block.mb-5(src="@/assets/curso/temas/tema5/img-2.svg" data-aos="fade-left")
       
     .tarjeta.color-primario.p-3.mt-3.caja_flotante_azul.col-md-9.m-auto.mb-5(data-aos="fade-down")
@@ -125,9 +119,9 @@
         figure
           img(src='@/assets/curso/temas/tema5/img-4.png', alt='')  
       .col-12.col-md-7.mb-lg-0(data-aos="fade-left")
-        p De acuerdo a la resolución ICA 30292 (2007) la sanitización es una serie de procesos físicos y/o químicos y/o biológicos, a los cuales debe ser sometida la gallinaza y pollinaza cuyo propósito es reducir la presencia de microorganismos patógenos en estos subproductos, antes de ser retirados de la granja o reutilizados en la misma granja.
-        p Como parte de su aprendizaje se hace necesario conocer ¿Cómo se sanitiza la cama?, para sanitizar la gallinaza se requiere que todo el material esté expuesto y que conserve la misma temperatura, pero este proceso debe ser controlado y por tiempo mínimo definido específico. 
-        p En la siguiente figura se especifican los pasos a seguir para hacer una correcta sanitización de la gallinaza o pollinaza.
+        p De acuerdo a la resolución ICA 30292 (2007), la sanitización es una serie de procesos físicos y/o químicos y/o biológicos, a los cuales debe ser sometida la gallinaza y pollinaza, cuyo propósito es reducir la presencia de microorganismos patógenos en estos subproductos, antes de ser retirados de la granja o reutilizados en la misma granja.
+        p Como parte de su aprendizaje se hace necesario conocer ¿Cómo se sanitiza la cama? Para sanitizar la gallinaza se requiere que todo el material esté expuesto y que conserve la misma temperatura, pero este proceso debe ser controlado y por tiempo mínimo definido específico.
+        p En la siguiente figura, se especifican los pasos a seguir para hacer una correcta sanitización de la gallinaza o pollinaza.
 
     .col-xl-12.mx-auto
       .titulo-sexto.color-primario(data-aos="fade-right")
@@ -199,19 +193,19 @@
 
       PasosA.color-acento-contenido.mb-5(tipo="n")
         div
-          h3 1. Etapa mesofílica:
+          h3 1. Etapa mesofílica
           p La mezcla alcanza temperaturas de hasta 40°C.
 
         div
-          h3 2. Etapa termofílica o de higienización: 
+          h3 2. Etapa termofílica o de higienización
           p La mezcla alcanza temperaturas que superan los 60°C, por lo cual se produce la muerte de los microorganismos patógenos (causantes de enfermedades).
 
         div
-          h3 3. Etapa de enfriamiento o mesófila II:
+          h3 3. Etapa de enfriamiento o mesófila II
           p La temperatura comienza a descender hasta igualar la ambiental.
 
         div
-          h3 4. Etapa de maduración: 
+          h3 4. Etapa de maduración
           p La mezcla se encuentra estable.
 
     p Para compostar, se debe contar con un espacio con un área mínima requerida del 5% de la capacidad de encasetamiento y un área adicional para manejo de contingencias.
@@ -316,7 +310,7 @@
                     span Descargar
                     i.fas.fa-file-download
 
-    p.mb-5 Los procesos anteriores de manejo de la gallinaza y pollinaza, así como, el manejo adecuado de la mortalidad hacen parte fundamental en la normatividad ambiental y sanitaria dentro del ámbito avícola, por lo que los esfuerzos del gremio se han dirigido a hacer un documento para el sector que sirva como guía para todos los productores, profesionales y operarios que intervienen activamente en la actividad, esto se hace con el fin de prevenir, controlar y mitigar desde todo punto de vista el impacto ambiental que pueda ocurrir a partir de la producción. Es así como nace la Guía Ambiental para el Subsector Avícola, como un documento central y básico en el tema ambiental, que a continuación se abordará.
+    p.mb-5 Los procesos anteriores de manejo de la gallinaza y pollinaza, así como, el manejo adecuado de la mortalidad hacen parte fundamental en la normatividad ambiental y sanitaria dentro del ámbito avícola, por lo que los esfuerzos del gremio se han dirigido a hacer un documento para el sector que sirva como guía para todos los productores, profesionales y operarios que intervienen activamente en la actividad, esto se hace con el fin de prevenir, controlar y mitigar el impacto ambiental que pueda ocurrir a partir de la producción. Es así como nace la “Guía ambiental para el subsector avícola”, como un documento central y básico en el tema ambiental, que a continuación se abordará.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-10.col-lg-9.mb-4.mb-md-0(data-aos="fade-left")
@@ -327,8 +321,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4 Guía ambiental para el subsector Avícola  
-                  p.text-small Para profundizar en las pautas del sector avícola puede leer “Guía Ambiental para el Subsector Avícola”
+                  h4 Guía ambiental para el subsector avícola  
+                  p.text-small Para profundizar en las pautas del sector avícola puede leer “Guía ambiental para el subsector Avícola”
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://fenavi.org/wp-content/uploads/2018/05/GUIA_AMBIENTAL_SUBSECTOR_AVICOLA.pdf" target="_blank")
                     span Descargar

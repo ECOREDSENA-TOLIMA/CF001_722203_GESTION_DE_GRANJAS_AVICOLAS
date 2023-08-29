@@ -37,9 +37,9 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.1 Medidas de prevención, mitigación, control y compensación. 
+      h2#t_1_1 7.1 Medidas de prevención, mitigación, control y compensación
   
-    p.mb-5 Las medidas de mitigación ambiental tienen por finalidad evitar o disminuir los efectos adversos de un proyecto o actividad, cualquiera sea su fase de ejecución. Estas se expresarán en un Plan, el cual deberá considerar, a lo menos, una de las siguientes medidas: 
+    p.mb-5 Las medidas de mitigación ambiental tienen por finalidad evitar o disminuir los efectos adversos de un proyecto o actividad, cualquiera sea su fase de ejecución. Estas se expresarán en un plan, el cual deberá considerar, a lo menos, una de las siguientes medidas: 
 
     .col-xl-12.mx-auto
       .titulo-sexto.color-primario(data-aos="fade-right")
@@ -86,13 +86,8 @@
         span <em>Medidas de prevención de riesgos y de control de accidentes.  </em>
       img.d-md-block.mb-5(src="@/assets/curso/temas/tema7/img-2.svg" data-aos="fade-left")
 
-    p.mb-5 Desde este punto de vista está considerado el tema de salud y seguridad en el trabajo, pero además el de las poblaciones aledañas a las producciones, las cuales pueden ser impactadas por las actividades de producción en las granjas avícolas, demostrando que no sólo es importante el factor ambiental en terreno y recursos aprovechables, sino también en las poblaciones, ya sean estas internas o externas. 
-
-    .d-flex.flex-wrap
-      .col-xl-12.pe-xl-1.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
-        .cajon.color-acento-contenido.p-4.d-flex.flex-wrap(data-aos="fade-right")
-          .col-md-12.ps-lg-4
-            p En este orden de ideas, entre los factores o recursos que se deben tener en cuenta cuando se habla de la parte ambiental de todo tipo de actividad, proyecto o producción, están: el recurso del suelo, el agua y el aire, principalmente, porque son los que, de acuerdo a su manejo pueden derivar en impactos ambientales significativos y por eso los abordaremos más detalladamente a continuación. 
+    p Desde este punto de vista está considerado el tema de salud y seguridad en el trabajo, pero además el de las poblaciones aledañas a las producciones, las cuales pueden ser impactadas por las actividades de producción en las granjas avícolas, demostrando que no sólo es importante el factor ambiental en terreno y recursos aprovechables, sino también en las poblaciones, ya sean estas internas o externas. 
+    p.mb-5 En este orden de ideas, entre los factores o recursos que se deben tener en cuenta cuando se habla de la parte ambiental de todo tipo de actividad, proyecto o producción, están: el recurso del suelo, el agua y el aire, principalmente, porque son los que, de acuerdo a su manejo pueden derivar en impactos ambientales significativos y por eso los abordaremos más detalladamente a continuación. 
 
     Separador
 
@@ -113,23 +108,23 @@
         figure
           img(src='@/assets/curso/temas/tema7/img-4.svg', alt='Texto que describa la imagen')
 
-      .tarjeta.color-primario.p-3(x="18.5%" y="50%" numero="")
-        h5 Acción mecánica del estiércol
-        ul.lista-ul.mb-3
-          li 
-            i.lista-ul__vineta
+      .tarjeta.color-acento-contenido.p-3(x="18.5%" y="50%" numero="")
+        h5(style="color: #000") Acción mecánica del estiércol
+        ul.lista-ul.mb-3(style="color: #000")
+          li(style="color: #000")
+            i.lista-ul__vineta(style="color: #000")
             | Consiste en el taponamiento de los poros del suelo colmatándolo y limitando la capacidad de drenaje de las aguas lluvias, causando con frecuencia inundaciones.
-          li 
-            i.lista-ul__vineta
+          li(style="color: #000") 
+            i.lista-ul__vineta(style="color: #000")
             | En un suelo anegado, el agua se convierte en un obstáculo para su oxigenación y da paso a la formación de zonas anaeróbicas donde prosperan microorganismos que producen gases como: el metano, el amoniaco y el gas sulfhídrico, alterando por completo la bioquímica del suelo.
 
-      .tarjeta.color-primario.p-3(x="51%" y="50%" numero="")
-        h5 El exceso de nutrientes
-        p Los microorganismos a través de su acción química en el suelo convierte los componentes nitrogenados que se encuentran en la gallinaza o pollinaza en nitratos y nitritos, que normalmente ayudan a crecer el material vegetal, por lo que estos subproductos son utilizados con frecuencia para abonar, sin embargo, en concentraciones altas se convierten en componentes tóxicos afectando los suelos y aguas subterráneas.
+      .tarjeta.color-acento-contenido.p-3(x="51%" y="50%" numero="")
+        h5(style="color: #000") El exceso de nutrientes
+        p(style="color: #000") Los microorganismos a través de su acción química en el suelo convierte los componentes nitrogenados que se encuentran en la gallinaza o pollinaza en nitratos y nitritos, que normalmente ayudan a crecer el material vegetal, por lo que estos subproductos son utilizados con frecuencia para abonar, sin embargo, en concentraciones altas se convierten en componentes tóxicos afectando los suelos y aguas subterráneas.
 
-      .tarjeta.color-primario.p-3(x="84.8%" y="50%" numero="")
-        h5 La acción biológica
-        p A causa de las acciones anteriores, se puede presentar la diseminación de patógenos procedentes de la gallinaza o pollinaza, que se propaguen debido a un ambiente propicio (por ejemplo E.coli)
+      .tarjeta.color-acento-contenido.p-3(x="84.8%" y="50%" numero="")
+        h5(style="color: #000") La acción biológica
+        p(style="color: #000") A causa de las acciones anteriores, se puede presentar la diseminación de patógenos procedentes de la gallinaza o pollinaza, que se propaguen debido a un ambiente propicio (por ejemplo E.coli)
 
     p.mb-5 Adicionalmente hay que tener otras consideraciones, no menos importantes, tales como: si se trata de un residuo estabilizado y saneado, o no, revise la siguiente figura para conocer la diferencia de cada uno.   
 
@@ -138,6 +133,8 @@
         h5 Figura 9.
         span <em>Tipos de residuos</em>
       img.d-md-block.mb-5(src="@/assets/curso/temas/tema7/img-5.svg" data-aos="fade-left")
+
+    p.mb-5 Por lo anterior, se debe llevar un adecuado plan de fertilización o acondicionamiento de suelos, el cual deberá contemplar las características fisicoquímicas y grado de estabilidad del producto que se piensa aplicar, así como las características del suelo (capacidad de drenaje, tipo de suelo, presencia de elementos mayores y menores) y las necesidades nutritivas de los cultivos a fertilizar. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-10.col-lg-9.mb-4.mb-md-0(data-aos="fade-left")
@@ -148,8 +145,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4 Política Nacional para la Gestión Integral Ambiental del Suelo    
-                  p.text-small Para profundizar en el manejo de los recursos del suelo puede revisar el documento: Política Nacional para la gestión integral ambiental del suelo. 
+                  h4 Política nacional para la gestión integral ambiental del suelo   
+                  p.text-small Para profundizar en el manejo de los recursos del suelo puede revisar el documento: Política nacional para la gestión integral ambiental del suelo. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.andi.com.co/Uploads/Pol%C3%ADtica%20GIAS.pdf" target="_blank")
                     span Descargar
@@ -157,96 +154,44 @@
 
     p.mb-5 A continuación, se definen cuáles son las Medidas de prevención, mitigación y/o control para el uso del suelo:  
 
-    .tarjeta.tarjeta.color-acento-botones10.p-4.mb-5(data-aos="fade-right")
-      SlyderA(tipo="b")
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Medidas preventivas, de mitigación y de control del suelo
+    .d-flex.flex-wrap
+      .col-xl-12.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
+        .cajon.color-acento-contenido.p-4.d-flex.flex-wrap(data-aos="fade-right")
+          .col-md-12.ps-lg-4
             ul.lista-ul.mb-3
               li 
                 i.lista-ul__vineta
                 | Implementación de prácticas de producción más limpia orientadas a la separación en la fuente y minimización de residuos sólidos.
               li 
                 i.lista-ul__vineta
-                | Capacitación y entrenamiento en la aplicación de Buenas Prácticas de Operación para el manejo de residuos sólidos y peligrosos.
-              li 
+                | Capacitación y entrenamiento en la aplicación de Buenas Prácticas de Operación para el manejo de residuos sólidos y peligrosos. 
+              li  
                 i.lista-ul__vineta
                 | Cumplir con las normas ambientales en lo referente al manejo y disposición final de residuos peligrosos.
-
-          .col-md-5.px-3
-            figure
-              img(src='@/assets/curso/temas/tema7/bote-1.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            p En cuanto a los residuos peligrosos resultantes de la labor en las incubadoras tales como frascos plásticos o de vidrio, los cuales han estado en contacto directo o parcialmente con residuos biológicos, se les debe dar el siguiente tratamiento:
-            .col-md.mb-5.mb-sm-0
-              h4 Listado ordenado básico
-              ol.lista-ol
-                li 
-                  span.text-bold 1. 
-                  | Sumergir en una solución de hipoclorito al 5% durante 30 a 60 minutos.
-                li 
-                  span.text-bold 2. 
-                  | Quebrar o despicar (vidrío) o cortar y rajar (plástico) según sea el caso, para evitar el uso ilegal o inadecuado de los envases. 
-
-          .col-md-5.px-3
-            figure
-              img(src='@/assets/curso/temas/tema7/bolsa-2.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Almacenar residuos
-            p Es aconsejable almacenar los residuos sistemáticamente hasta lograr una cantidad considerable para ser recolectada por la empresa prestadora del servicio. No debe hacerse disposición final a través de la quema en ningún lugar de la producción.
-          
-          .col-md-5.px-3
-            figure
-              img(src='@/assets/curso/temas/tema7/papel-3.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Seguridad
-            p Las agujas de las jeringas y hojas de bisturí se deben almacenar en recipientes rígidos a prueba de perforaciones (guardianes), marcados con símbolo rojo que señale que contienen elementos corto-punzantes.
-            p Así mismo, debe dárseles el tratamiento de residuos peligrosos de conformidad con lo dispuesto en el Decreto 4741 de 2005 y en consecuencia se debe realizar su disposición a través de un «gestor de residuos» autorizado.
-
-          .col-md-5.px-3
-            figure
-              img(src='@/assets/curso/temas/tema7/jeringa-4.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            p En caso de presentarse derrames de combustible en las instalaciones de las incubadoras o plantas de beneficio, debe hacerse limpieza lo más pronto posible para facilitar la recuperación del combustible y minimizar los impactos al medio ambiente.
-            p Como medida de seguridad los tanques de almacenamiento deben contar con diques para la retención del combustible en caso de derrames; así mismo, se aconseja como parte de las medidas de seguridad contar con extintores para el control de incendios.
-
-          .col-md-5.px-3
-            figure
-              img(src='@/assets/curso/temas/tema7/proteccion-5.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            p Los aceites usados se deben manejar de acuerdo a las recomendaciones suministradas por el fabricante o importador del lubricante, hasta finalizar su vida útil.
-            p Se debe realizar el cambio del aceite lubricante de los vehículos en establecimientos que cumplan con los requisitos de acopiador, establecidos en el Manual Técnico para el manejo de aceites lubricantes usados, expedido por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial y las normas establecidas por la autoridad ambiental de la jurisdicción.
-          
-          .col-md-5.px-3
-            figure
-              img(src='@/assets/curso/temas/tema7/aceite-6.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            p Las baterías usadas se consideran residuos post consumo de acuerdo a lo establecido en el Decreto 4741 de 2005, por lo que deben ser retornadas al mecanismo de recolección que el fabricante o importador haya establecido, de acuerdo a la Resolución 372 de 2009, modificada por la Resolución No. 361 de 2011 del Ministerio de Ambiente, Vivienda y Desarrollo Territorial.
-
-          .col-md-5.px-3
-            figure
-              img(src='@/assets/curso/temas/tema7/baterias-7.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-6.mb-4.mb-md-0
-            p En el uso de los plaguicidas se deben seguir las instrucciones de manejo seguro suministradas en la etiqueta del producto. Cuando se termina el producto, se debe realizar la práctica de triple lavado a los envases e inutilizarlos sin destruir la información de las etiquetas.
-            p Estos son considerados residuos post consumo de acuerdo al Decreto 4741 de 2005 y por lo tanto deben retornarse al mecanismo de devolución que el fabricante o importador haya establecido, de acuerdo con lo previsto en la Resolución 0693 de 2007.
-          
-          .col-md-5.px-3
-            figure
-              img(src='@/assets/curso/temas/tema7/plaguicida-8.png', alt='Texto que describa la imagen')
+              li  
+                i.lista-ul__vineta
+                | Los residuos peligrosos resultantes de la labor en las incubadoras tales como frascos plásticos o de vidrio, los cuales han estado en contacto directo o parcialmente con residuos biológicos, se les debe dar el siguiente tratamiento: sumergir en una solución de hipoclorito al 5% durante 30 a 60 minutos y quebrar o despicar (vidrío) o cortar y rajar (plástico) según sea el caso, para evitar el uso ilegal o inadecuado de los envases.
+              li  
+                i.lista-ul__vineta
+                | Es aconsejable almacenar los residuos sistemáticamente hasta lograr una cantidad considerable para ser recolectada por la empresa prestadora del servicio. No debe hacerse disposición final a través de la quema en ningún lugar de la producción.
+              li  
+                i.lista-ul__vineta
+                | Las agujas de las jeringas y hojas de bisturí se deben almacenar en recipientes rígidos a prueba de perforaciones (guardianes), marcados con símbolo rojo que señale que contienen elementos corto-punzantes.
+              li  
+                i.lista-ul__vineta
+                | En caso de presentarse derrames de combustible en las instalaciones de las incubadoras o plantas de beneficio, debe hacerse limpieza lo más pronto posible para facilitar la recuperación del combustible y minimizar los impactos al medio ambiente. 
+              li  
+                i.lista-ul__vineta
+                | Como medida de seguridad los tanques de almacenamiento deben contar con diques para la retención del combustible en caso de derrames; así mismo, se aconseja como parte de las medidas de seguridad contar con extintores para el control de incendios.
+              li  
+                i.lista-ul__vineta
+                | Los aceites usados se deben manejar de acuerdo a las recomendaciones suministradas por el fabricante o importador del lubricante, hasta finalizar su vida útil.
+              li  
+                i.lista-ul__vineta
+                | Se debe realizar el cambio del aceite lubricante de los vehículos en establecimientos que cumplan con los requisitos de acopiador, establecidos en el Manual Técnico para el manejo de aceites lubricantes usados, expedido por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial y las normas establecidas por la autoridad ambiental de la jurisdicción.
+              li  
+                i.lista-ul__vineta
+                | En el uso de los plaguicidas se deben seguir las instrucciones de manejo seguro suministradas en la etiqueta del producto. Cuando se termina el producto, se debe realizar la práctica de triple lavado a los envases e inutilizarlos sin destruir la información de las etiquetas. Estos son considerados residuos post consumo de acuerdo al Decreto 4741 de 2005 y por lo tanto deben retornarse al mecanismo de devolución que el fabricante o importador haya establecido, de acuerdo con lo previsto en la Resolución 0693 de 2007.
 
     Separador 
 
@@ -255,7 +200,7 @@
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/img-2.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/img-2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 El agua es el recurso básico para garantizar la vida de todos los seres vivos del planeta, solo superado por el oxígeno. Se necesita el agua para cualquier actividad metabólica o fisiológica en el cuerpo o función de las hormonas y enzimas, ayuda a transportar los nutrientes y los desechos en el cuerpo y significativamente reduce la temperatura corporal especialmente en climas cálidos. 
@@ -286,8 +231,8 @@
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
         p En muchos lugares del mundo, el agua antes de llegar a los hogares y empresas donde se usa, recibe un tratamiento con diferentes métodos depurativos o de eliminación de algunos o todos los contaminantes que se encuentran en las aguas residuales, para que posteriormente, pueda ser utilizada.
-        p Este proceso puede usar operaciones de distintos tipos (físico, químico, físico-químico o biológico) cuyo objetivo es la eliminación y/o reducción de la contaminación o de las características no deseables de las aguas.
-        p Las que reciben tratamiento pueden ser de origen industrial, urbano e incluso o de la misma naturaleza, ya que, ésta puede contener compuestos químicos no aptos para la salud. Además, el agua residual que se trata puede ser usada para el consumo humano, regar cultivos, en la industria como: agua virtual o simplemente para reinsertar a corrientes de agua sin contaminar, teniendo así, un reciclaje constante.
+        p Este proceso puede usar operaciones de distintos tipos (físico, químico, físico-químico o biológico), cuyo objetivo es la eliminación y/o reducción de la contaminación o de las características no deseables de las aguas.
+        p Las aguas que son sometidas a tratamiento pueden provenir de diversas fuentes, ya sea de origen industrial, urbano o incluso de la propia naturaleza, dado que pueden contener compuestos químicos no adecuados para la salud. Además, el agua residual que se somete a tratamiento puede ser reutilizada para diversos fines, como el consumo humano, el riego de cultivos o en la industria, a veces llamada "agua virtual", o simplemente reintegrarse en corrientes de agua sin causar contaminación, lo que permite un ciclo de reciclaje constante.
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema7/img-8.svg" data-aos="fade-right")
 
     .d-flex.flex-wrap.mb-5
@@ -301,80 +246,81 @@
         figure
           img(src='@/assets/curso/temas/tema7/img-9.png', alt='')  
       .col-12.col-md-7.mb-lg-0(data-aos="fade-left")
-        ul.lista-ul--color
+        ul.lista-ul.mb-3
           li 
-            i.fas.fa-check
+            i.lista-ul__vineta
             | Método de desbaste primario. 
           li 
-            i.fas.fa-check
-            | Filtrados por membranas (microfiltración, ultrafiltración, nanofiltración, ósmosis inversa)
+            i.lista-ul__vineta
+            | Filtrados por membranas (microfiltración, ultrafiltración, nanofiltración, ósmosis inversa).
           li 
-            i.fas.fa-check
+            i.lista-ul__vineta
             | Acción del carbón activado.
           li 
-            i.fas.fa-check
+            i.lista-ul__vineta
             | Método de descalcificación.
           li 
-            i.fas.fa-check
+            i.lista-ul__vineta
             | Tratamiento con cloro.
           li 
-            i.fas.fa-check
+            i.lista-ul__vineta
             | Tratamiento con ozono.
           li 
-            i.fas.fa-check
+            i.lista-ul__vineta
             | Tratamiento de agua por medio de la luz ultravioleta.
           li 
-            i.fas.fa-check
+            i.lista-ul__vineta
             | Método de desalinización.
           li 
-            i.fas.fa-check
-            | Destilación de Agua.
+            i.lista-ul__vineta
+            | Destilación de agua.
           li 
-            i.fas.fa-check
+            i.lista-ul__vineta
             | Planta Macrófitas.
           li 
-            i.fas.fa-check
+            i.lista-ul__vineta
             | Aplicación de electricidad al agua residual.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 Control ambiental del recurso hídrico en la industria avícola
 
     p En cualquier unidad productiva el consumo y manejo del recurso hídrico es uno de los puntos críticos. Porque las fuentes hídricas (superficiales y subterráneas) son afectadas principalmente por el vertimiento de aguas residuales provenientes de unidades productivas, en el caso de las granjas, esta situación se da por el uso ineficiente del agua en operaciones de lavado o por vertimiento directo, sin ningún tratamiento a las fuentes hídricas, así como, por arrastre de la gallinaza o pollinaza, si ésta se encuentra almacenada inadecuadamente.
-    p.mb-5 A continuación, se mencionan las Medidas de prevención, mitigación y/o control para el uso agua:
+    p.mb-5 A continuación, se mencionan las medidas de prevención, mitigación y/o control para el uso agua:
 
     .col-xl-11.mx-auto.mb-5(data-aos="fade-left")
-      .fondo-color-primario2.p-4.d-flex.flex-wrap
-        .col-md-11.ps-lg-4
-          .col-sm.mb-5.mb-sm-0
-            ul.lista-ul--color
-              li 
-                i.fas.fa-check
-                | Es aconsejable el diseño y evaluación periódico de indicadores de consumo de agua para hacer seguimiento, control y generar alternativas de mejora. 
-              li 
-                i.fas.fa-check
-                | Para la limpieza del galpón se recomienda realizar barridos en seco y lavados a presión.
-              li 
-                i.fas.fa-check
-                | Instalar dispositivos ahorradores en bebederos, sanitarios, zonas de aspersión, lavamanos y duchas.
-              li 
-                i.fas.fa-check
-                | Las tuberías y equipos deberán estar en buen estado para garantizar el uso eficiente del agua. 
-              li 
-                i.fas.fa-check
-                | Los equipos y dispositivos (tuberías, grifos, bebederos) deberán tener una hoja de vida, donde se registren: lugar y fecha de compra, reparaciones, empresa prestadora del servicio técnico, entre otros. 
-              li 
-                i.fas.fa-check
-                | La limpieza de los tanques de almacenamiento y las tuberías debe realizarse mínimo cada 2 meses (dependiendo de la dureza del agua), esto evitará que ocurran obstrucciones en los bebederos automáticos y reducirá la aparición de infecciones; la manera correcta de realizar la limpieza de los tanques es con agua a presión, cepillando sus paredes y aplicando desinfectante. En todo caso se debe evitar el desperdicio de agua, por lo que la limpieza debe hacerse cuando esté desocupado. 
-              li 
-                i.fas.fa-check
-                | Para hacer un mejor control estadístico del consumo se recomienda hacer uso de los medidores. Se sugiere registrar dicho consumo al menos una vez por semana y considerar el número de aves, edad, actividad y operaciones de limpieza, entre otros. Adicionalmente, es importante contar con medidores exclusivos para el consumo doméstico, que registren no solamente el consumo de las familias que viven en las granjas, sino también el consumo que realizan los trabajadores en sus actividades. 
-              li 
-                i.fas.fa-check
-                | Vincular al personal en los programas de capacitación y entrenamiento en la aplicación de prácticas, reforestación y conservación de cuencas hidrográficas. 
-              li 
-                i.fas.fa-check
-                | Construcción de un comité para el seguimiento y control del recurso hídrico, el cual verificará la tendencia del consumo y el estado de las tuberías y los equipos.
-    
+      .fondo-color.p-4.d-flex.flex-wrap
+        .cajon-b.color-acento-botones.p-3.mb-5
+          .col-md-11.ps-lg-4
+            .col-sm.mb-5.mb-sm-0
+              ul.lista-ul.mb-3
+                li 
+                  i.lista-ul__vineta
+                  | Es aconsejable el diseño y evaluación periódico de indicadores de consumo de agua para hacer seguimiento, control y generar alternativas de mejora. 
+                li 
+                  i.lista-ul__vineta
+                  | Para la limpieza del galpón se recomienda realizar barridos en seco y lavados a presión.
+                li 
+                  i.lista-ul__vineta
+                  | Instalar dispositivos ahorradores en bebederos, sanitarios, zonas de aspersión, lavamanos y duchas.
+                li 
+                  i.lista-ul__vineta
+                  | Las tuberías y equipos deberán estar en buen estado para garantizar el uso eficiente del agua. 
+                li 
+                  i.lista-ul__vineta
+                  | Los equipos y dispositivos (tuberías, grifos, bebederos) deberán tener una hoja de vida, donde se registren: lugar y fecha de compra, reparaciones, empresa prestadora del servicio técnico, entre otros. 
+                li 
+                  i.lista-ul__vineta
+                  | La limpieza de los tanques de almacenamiento y las tuberías debe realizarse mínimo cada 2 meses (dependiendo de la dureza del agua), esto evitará que ocurran obstrucciones en los bebederos automáticos y reducirá la aparición de infecciones; la manera correcta de realizar la limpieza de los tanques es con agua a presión, cepillando sus paredes y aplicando desinfectante. En todo caso se debe evitar el desperdicio de agua, por lo que la limpieza debe hacerse cuando esté desocupado. 
+                li 
+                  i.lista-ul__vineta
+                  | Para hacer un mejor control estadístico del consumo se recomienda hacer uso de los medidores. Se sugiere registrar dicho consumo al menos una vez por semana y considerar el número de aves, edad, actividad y operaciones de limpieza, entre otros. Adicionalmente, es importante contar con medidores exclusivos para el consumo doméstico, que registren no solamente el consumo de las familias que viven en las granjas, sino también el consumo que realizan los trabajadores en sus actividades. 
+                li 
+                  i.lista-ul__vineta
+                  | Vincular al personal en los programas de capacitación y entrenamiento en la aplicación de prácticas, reforestación y conservación de cuencas hidrográficas. 
+                li 
+                  i.lista-ul__vineta
+                  | Construcción de un comité para el seguimiento y control del recurso hídrico, el cual verificará la tendencia del consumo y el estado de las tuberías y los equipos.
+      
     p.mb-5 Teniendo en cuenta lo anterior, y en adición pueden surgir otras prácticas que causen un uso ineficiente del recurso hídrico, esto puede deberse en la siguiente lista:
 
     .d-flex.flex-wrap.mb-5
@@ -486,7 +432,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/img-13.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0  De acuerdo a la resolución 1541 del 2013, un olor ofensivo es el olor, generado por sustancias o actividades industriales, comerciales o de servicio, que produce fastidio, aunque no cause daño a la salud humana. Estos deben ser controlados a través de un plan de contingencia para reducir su impacto conocido como PRIO por sus siglas.
+        p.mb-0 De acuerdo con la Resolución 1541 de 2013, un olor ofensivo se define como el olor generado por sustancias o actividades industriales, comerciales o de servicio que causa molestia, aunque no presente riesgos para la salud humana. Estos olores deben ser controlados mediante la implementación de un plan de contingencia diseñado para reducir su impacto, comúnmente conocido como Plan de Reducción de Olores (PRIO), según sus siglas.
           br
           br
           | Los olores ofensivos provenientes de instalaciones avícolas son producidos por una mezcla de gases y vapores, muchos de los cuales se generan por la descomposición anaerobia de la gallinaza o pollinaza, la mortalidad, alimentos y otras materias orgánicas.
@@ -614,7 +560,7 @@ export default {
       {
         titulo: '1. Ácidos orgánicos volátiles',
         texto:
-          'Estos compuestos son generados durante la hidrólisis de los ácidos grasos presentes en el estiércol; se destacan <strong>los ácidos acéticos, propiónico, butírico, valérico y capróico,</strong> que se caracterizan por su volatilidad y olor penetrante. Por su carácter ácido, en condiciones ambientales adversas (p.ej. pobre ventilación versus exposición prolongada) causan irritaciones en las mucosas del sistema respiratorio de aves y humanos.',
+          'Estos compuestos son generados durante la hidrólisis de los ácidos grasos presentes en el estiércol; se destacan los ácidos acéticos, propiónico, butírico, valérico y capróico, que se caracterizan por su volatilidad y olor penetrante. Por su carácter ácido, en condiciones ambientales adversas (p.ej. pobre ventilación versus exposición prolongada) causan irritaciones en las mucosas del sistema respiratorio de aves y humanos.',
         icono: require('@/assets/curso/temas/tema7/gallina-1.png'),
       },
       {
@@ -638,7 +584,7 @@ export default {
       {
         titulo: '5. Gas sulfhídrico, H2S',
         texto:
-          'Se produce por la degradación biológica en condiciones anaerobias de los compuestos azufrados. El gas sulfhídrico o sulfuro de hidrógeno tiene el olor característico del «huevo podrido» perceptible a concentraciones muy bajas (2 ppm). Es el principal agente aromático de las emisiones provenientes de la descomposición del estiércol y es un gas altamente corrosivo, que afecta principalmente los metales ferrosos',
+          'Se produce por la degradación biológica en condiciones anaerobias de los compuestos azufrados. El gas sulfhídrico o sulfuro de hidrógeno tiene el olor característico del «huevo podrido» perceptible a concentraciones muy bajas (2 ppm). Es el principal agente aromático de las emisiones provenientes de la descomposición del estiércol y es un gas altamente corrosivo, que afecta principalmente los metales ferrosos.',
         icono: require('@/assets/curso/temas/tema7/gas-5.png'),
       },
       {

@@ -5,17 +5,17 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Huella de Carbono
+      h1 Huella de carbono
 
     .d-flex.flex-wrap.mb-5
-      .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
+      .col-xl-7.pe-xl-5.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
         .cajon.color-acento-contenido.p-4.d-flex.flex-wrap(data-aos="fade-right")
           .col-md-11.ps-lg-4
             p Es uno de estos nuevos términos que cada vez están más presentes en nuestra actividad. Se trata de un indicador ambiental clave, que refleja los gases emitidos por un individuo o empresa.
               br
               br
               | Estos gases que se acumulan en la atmósfera son lo que producen el efecto invernadero. En resumidas cuentas, se puede definir la huella de carbono como el impacto que deja la actividad humana sobre el medio ambiente. Es decir, la marca ambiental que genera una persona, producto u organización sobre el planeta debido a sus acciones diarias, totalizadas según parámetros de emisiones de dióxido de carbono (CO2) y otros gases de efecto invernadero (GEI) liberadas a la atmósfera.  
-      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema6/img-1.png" data-aos="fade-left" style="max-width: 400px")
+      img.mb-4.mb-xl-0.col-xl-5.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema6/img-1.png" style="max-width: 500px")
 
     p A continuación, se revisarán otros temas que son vitales para entender cómo cada ser humano es responsable del cuidado del medio ambiente en el planeta y cómo impacta la sociedad en general. 
 
@@ -27,7 +27,7 @@
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-5
       .col-12.col-md-3.col-lg-1
         img.mb-4.mb-md-0.mx-auto(src="@/assets/curso/temas/tema6/decorador-1.svg" data-aos="fade-right" style="max-width: 100px")
-      p.col.mb-0.col-md-9.col-lg-11.ps-lg-4(data-aos="fade-left") La Huella de Carbono (HC) tiene una gran importancia en el medio ambiente como indicador de sostenibilidad y de impacto hacia el cambio climático, ya que aporta información sobre la cantidad de Gases de efecto invernadero (GEI) que se emite a la atmósfera en el desarrollo de una actividad humana, ya sea esta individual o colectiva. 
+      p.col.mb-0.col-md-9.col-lg-11.ps-lg-4(data-aos="fade-left") La Huella de Carbono (HC) tiene una gran importancia en el medio ambiente como indicador de sostenibilidad y de impacto hacia el cambio climático, ya que aporta información sobre la cantidad de Gases de Efecto Invernadero (GEI) que se emite a la atmósfera en el desarrollo de una actividad humana, ya sea esta individual o colectiva.
         br
         br
         | En el ámbito productivo esto significa que, se deben controlar las emisiones de gases, las cuales se pueden identificar y reducir, lo cual afectaría positivamente los costos de producción, aumentando la eficiencia y competitividad de la empresa y cumpliendo así con las pautas de entidades internacionales en el tema. 
@@ -41,14 +41,14 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 6.2 Regulaciones, entidades certificadoras y requerimientos para ingresar a los mercados internacionales.
+      h2#t_1_1 6.2 Regulaciones, entidades certificadoras y requerimientos para ingresar a los mercados internacionales
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/img-2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El impacto ambiental de la Huella de Carbono se controla a través de unas mediciones en las emisiones de gases que son lanzados a la atmósfera durante todo el ciclo de vida. Hay normativas internacionales como ISO 14064, ISO 14069, ISO 14067, PAS 2050 o GHG Protocolo, entre otras, que recogen este tipo de propuestas. 
+        p.mb-0 El impacto ambiental de la Huella de Carbono, se controla a través de unas mediciones en las emisiones de gases que son lanzados a la atmósfera durante todo el ciclo de vida. Hay normativas internacionales como ISO 14064, ISO 14069, ISO 14067, PAS 2050 o GHG Protocolo, entre otras, que recogen este tipo de propuestas.
           br
           br
           | La huella de carbono se mide en masa de CO2 equivalente. Según el tamaño de la huella, es posible implementar una estrategia de gestión de emisiones, a través de diferentes programas. 

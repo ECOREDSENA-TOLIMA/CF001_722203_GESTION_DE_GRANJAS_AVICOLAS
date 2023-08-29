@@ -27,7 +27,7 @@
           .col-md-12.mb-4.mb-md-0
             p Son acciones encaminadas a evitar los impactos, efectos y riesgos ambientales, que pueden causar impactos negativos o daño a las personas, al medio ambiente y/o a la propiedad privada durante la ejecución de una actividad o proyecto.
       
-      .py-4.py-md-5.px-5(titulo="Medidas de Prevención")
+      .py-4.py-md-5.px-5(titulo="Medidas de prevención")
         .row
           .col-md-12.mb-4.mb-md-0
             p Las medidas de prevención tienen por finalidad disminuir o evitar que aparezcan efectos desfavorables o indeseables a consecuencia de los riesgos ambientales, a la salud humana o en el medio ambiente, y que pudieran provocar una pérdida, disminución, detrimento o menoscabo significativo a uno o más elementos del mismo, a consecuencia de la ejecución de una actividad o proyecto. 
@@ -35,24 +35,24 @@
       .py-4.py-md-5.px-5(titulo="Medidas de control")
         .row
           .col-md-12.mb-4.mb-md-0
-            p Estas se consideran una serie de medidas destinadas a enfrentar con éxito los riesgos identificados en cada una de las etapas de una actividad o proyecto toda vez que ocurra un riesgo específico, minimizando los daños a los trabajadores, a comunidades vecinas, al medio ambiente circundante y a las instalaciones.
+            p Estas medidas se consideran una serie de acciones diseñadas para abordar eficazmente los riesgos identificados en cada etapa de una actividad o proyecto. Su objetivo es reducir al mínimo los posibles daños a los trabajadores, comunidades vecinas, entorno ambiental y las instalaciones en caso de que se produzca un riesgo específico.
 
       .py-4.py-md-5.px-5(titulo="Medidas de mitigación")
         .row
           .col-md-12.mb-4.mb-md-0
-            p Estas se entienden como la implementación o aplicación de cualquier política, estrategia, obra y/o acción tendiente a minimizar los impactos adversos que puedan presentarse en cierta actividad productiva o durante las etapas de ejecución de un proyecto y mejorar la calidad ambiental aprovechando las oportunidades existentes.
+            p Estas se entienden como la implementación o aplicación de cualquier política, estrategia, obra y/o acción tendiente a minimizar los impactos adversos que puedan presentarse en cierta actividad productiva o durante las etapas de ejecución de un proyecto y buscan mejorar la calidad ambiental aprovechando las oportunidades existentes.
       
       .py-4.py-md-5.px-5(titulo="Medidas de compensación")
         .row
           .col-md-12.mb-4.mb-md-0
-            p Son las actividades dirigidas a retribuir a las comunidades, las regiones, localidades y entorno natural, por los impactos o efectos negativos generados por un proyecto, que no puedan ser evitados, corregidos, mitigados o sustituidos.
+            p Estas actividades se orientan hacia la compensación de comunidades, regiones, localidades y el entorno natural, como respuesta a los impactos o efectos adversos causados por un proyecto. Estos impactos, cuando no pueden ser evitados, corregidos, mitigados o reemplazados, se buscan equilibrar mediante acciones que contribuyan a restaurar o mejorar la calidad de vida y el bienestar de las áreas afectadas.
 
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 2.2 Normativa sobre el manejo ambiental 
 
-    p.mb-5 La normatividad planteada para el manejo ambiental se ciñe particularmente en el plan de manejo ambiental, el cual debe ser diseñado para cada proyecto o actividad en específico; en el caso de la industria avícola hay una gran ventaja del modelo a seguir el cual está contenido en “La Guía Ambiental Para El Subsector Avícola”, la que ilustra a los productores del sector en el diseño y los puntos a seguir esta guía se tratará más adelante. 
+    p.mb-5 La normativa establecida para el manejo ambiental se enfoca especialmente en el desarrollo de un plan de manejo ambiental, el cual debe ser adaptado a cada proyecto o actividad en particular. En el ámbito de la industria avícola, existe una ventaja significativa en la forma de un modelo preestablecido que se encuentra en "La guía ambiental para el subsector avícola". Esta guía ofrece orientación a los productores del sector sobre cómo diseñar y seguir el plan adecuado.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10.col-lg-9.mb-4.mb-md-0(data-aos="fade-left")

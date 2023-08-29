@@ -25,7 +25,10 @@
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-5
       .col-12.col-md-3.col-lg-1
         img.mb-4.mb-md-0.mx-auto(src="@/assets/curso/temas/tema1/decorador-1.svg" data-aos="fade-right" style="max-width: 100px")
-      p.col.mb-0.col-md-9.col-lg-11.ps-lg-4(data-aos="fade-left") En Colombia existen diversas normas y leyes que rigen el tema de seguridad y salud en el trabajo, la más actual se registra en el año de 2019 en donde se conceden plazos para hacer la implementación en el sistema de mejoras en los diversos entes y la adopción de las medidas que garanticen en todos los ámbitos el bienestar de los trabajadores; a continuación, se extiende una lista de las principales normas tomadas del autor Germán Campos Gutiérrez médico especialista en medicina laboral, salud ocupacional y  en administración en salud, las cuales pueden ser consultadas por los aprendices para más información. 
+      p.col.mb-0.col-md-9.col-lg-11.ps-lg-4(data-aos="fade-left") En Colombia, se encuentran vigentes varias normas y leyes que regulan el ámbito de la seguridad y salud en el trabajo. La más reciente de estas normativas fue registrada en el año 2019. En esta, se establecen plazos para la implementación de mejoras en los sistemas de diversas entidades y la adopción de medidas que aseguren el bienestar de los trabajadores en todos los aspectos.
+        br
+        br
+        | A continuación, se presenta una lista de las principales normas, recopilada del autor Germán Campos Gutiérrez, quien es un médico especialista en medicina laboral, salud ocupacional y administración en salud. Estas normas son una fuente de información valiosa para los estudiantes y aprendices que deseen obtener más detalles sobre este tema.
 
     .col-xl-11.mx-auto(data-aos="fade-left")
       .fondo-color-primario.p-4.d-flex.flex-wrap
@@ -34,49 +37,46 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | <strong>Normatividad, seguridad y salud en el trabajo avícola:</strong> Las empresas de la industria del sector avícola, como cualquier otra en Colombia deben cumplir con reglamentaciones de la Organización Internacional del trabajo a nivel general y del Ministerio de Trabajo y Seguridad social, con el fin de proteger los derechos de los empleados. 
+                | <strong>Normatividad, seguridad y salud en el trabajo avícola:</strong> las empresas del sector avícola, al igual que en cualquier otro sector en Colombia, tienen la responsabilidad de cumplir con las regulaciones establecidas por la Organización Internacional del Trabajo a nivel global y por el Ministerio de Trabajo y Seguridad Social a nivel nacional. Este compromiso tiene como objetivo salvaguardar los derechos de los empleados y asegurar su bienestar laboral.
               li 
                 i.fas.fa-check
-                | <strong>Ley 1010 2006:</strong> En donde se adoptan medidas para prevenir, corregir y sancionar el acoso laboral y otros dentro de las relaciones laborales.
+                | <strong>Ley 1010 2006:</strong> en Colombia adopta medidas para prevenir, corregir y sancionar el acoso laboral y otros comportamientos similares dentro de las relaciones laborales.
               li 
                 i.fas.fa-check
-                | <strong>Ley 1951 Código Sustantivo del Trabajo:</strong>  Que regula las relaciones laborales en Colombia. Esta ley establece los derechos y obligaciones de los trabajadores y empleadores, así como las normas sobre contratos de trabajo, salarios, prestaciones sociales, jornada laboral, vacaciones, permisos, sindicatos, negociación colectiva, huelga, seguridad social y riesgos laborales.
+                | <strong>Ley 1951 Código Sustantivo del Trabajo:</strong> regula las relaciones laborales en el país. Esta ley establece los derechos y deberes tanto de los trabajadores como de los empleadores. Además, aborda temas relacionados con los contratos laborales, salarios, prestaciones sociales, jornada laboral, vacaciones, permisos, sindicatos, negociación colectiva, huelga, seguridad social y riesgos laborales.
               li 
                 i.fas.fa-check
-                | <strong>Resolución 1401 2007:</strong> Por la cual se reglamenta la investigación de incidentes y accidentes de trabajo.
+                | <strong>Resolución 1401 2007:</strong> en Colombia reglamenta la investigación de incidentes y accidentes de trabajo.
               li 
                 i.fas.fa-check
-                | <strong>Resolución 2346 2007:</strong> Por la cual se regula la práctica de evaluaciones médicas ocupacionales y el manejo y contenido de las historias clínicas ocupacionales.
+                | <strong>Resolución 2346 2007:</strong> en Colombia regula la realización de evaluaciones médicas ocupacionales y establece las pautas para la gestión y contenido de las historias clínicas ocupacionales.
               li 
                 i.fas.fa-check
-                | <strong>Resolución 2646 2008:</strong> Por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo permanente de la exposición a factores de riesgo psicosocial en el trabajo y para la determinación del origen de estas.
+                | <strong>Resolución 2646 2008:</strong> en Colombia establece disposiciones y define responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo constante de la exposición a factores de riesgo psicosocial en el trabajo, así como para determinar el origen de estos factores.
               li 
                 i.fas.fa-check
-                | <strong>Resolución 00000652 2012:</strong> Por la cualquier se establece la conformación y funcionamiento del Comité de convivencia laboral en entidades públicas y empresas privadas y se dan otras disposiciones.
+                | <strong>Resolución 652 2012:</strong> en Colombia establece la conformación y funcionamiento del Comité de Convivencia Laboral en entidades públicas y empresas privadas, además de proporcionar otras disposiciones relacionadas.
               li 
                 i.fas.fa-check
-                | <strong>Resolución 0312 2019:</strong> Por la cual se definen los estándares mínimos del sistema de gestión de la seguridad y salud en el trabajo SG-SST.
+                | <strong>Resolución 0312 2019:</strong> en Colombia define los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST).
               li 
                 i.fas.fa-check
-                | <strong>Decreto 1072 2015. Decreto Único Reglamentario del Sector Trabajo:</strong> El Ministerio de Trabajo fomenta políticas y estrategias para la generación de empleo estable, la formalización laboral, la protección a los desempleados, la formación de los trabajadores, la movilidad laboral, las pensiones y otras prestaciones.
+                | <strong>Decreto 1072 2015. Decreto Único Reglamentario del Sector Trabajo:</strong> establece el marco normativo para regular el sector laboral en Colombia. A través de este decreto, el Ministerio de Trabajo promueve políticas y estrategias destinadas a generar empleo estable, formalizar el empleo, proteger a los desempleados, capacitar a los trabajadores, facilitar la movilidad laboral y garantizar las pensiones y otras prestaciones laborales.
               li 
                 i.fas.fa-check
-                | <strong>Resolución 1409 2012:</strong> Por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas.
+                | <strong>Resolución 1409 2012:</strong> en Colombia establece el reglamento de seguridad para la protección contra caídas en el trabajo en alturas.
               li 
                 i.fas.fa-check
-                | <strong>Decreto-Ley 1295 1994:</strong> Por el cual se determina la organización y administración del sistema general de riesgos profesionales.
+                | <strong>Decreto-Ley 1295 1994:</strong> en Colombia determina la organización y administración del Sistema General de Riesgos Profesionales.
               li 
                 i.fas.fa-check
-                | <strong>Resolución 1792 1990:</strong> Por la cual se adoptan valores límites permisibles para la exposición ocupacional al ruido.
+                | <strong>Resolución 1792 1990:</strong> en Colombia adopta valores límites permisibles para la exposición ocupacional al ruido.
               li 
                 i.fas.fa-check
-                | <strong>Resolución 2013 1986:</strong> Por la cual se reglamenta la organización y funcionamiento de los Comités de medicina, higiene y seguridad industrial en los lugares de trabajo.
+                | <strong>Resolución 2013 1986:</strong> en Colombia reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo.
               li 
                 i.fas.fa-check
-                | <strong>Resolución 2013 1986:</strong> Por la cual se reglamenta la organización y funcionamiento de los Comités de medicina, higiene y seguridad industrial en los lugares de trabajo.
-              li 
-                i.fas.fa-check
-                | <strong>Resolución 2400 1979:</strong> Por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
+                | <strong>Resolución 2400 1979:</strong> en Colombia establece disposiciones relacionadas con vivienda, higiene y seguridad en los establecimientos de trabajo.
 
     Separador
 
@@ -125,11 +125,6 @@
         p En Colombia se tienen en cuenta los siguientes documentos: acuerdo al Decreto 1295 (1994) Resolución ICA y la 3651 de 2014 del Instituto Colombiano Agropecuario. Por medio de las cuales se establecen los requisitos para la certificación de granjas avícolas bioseguras de postura y/o levante y se dictan otras disposiciones. Las clases de riesgos se categorizan del 1 a 5, ocupando el sector avícola el 2, sin embargo, una empresa puede cotizar sobre diferentes clases de riesgo, dependiendo de los centros de trabajo que haya establecido. Por ejemplo, una empresa puede tener un centro de trabajo administrativo que cotiza sobre riesgo tipo 1 y otro centro de trabajo productivo que cotiza sobre riesgo tipo 4.
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-3.png" data-aos="fade-right")
 
-    .row.mb-5.align-self-stretch.justify-content-center.align-items-center
-      .col-12.col-md-11.mb-5.mb-lg-0(data-aos="fade-right")
-        .cajon.color-acento-contenido.p-3
-          p A continuación, se muestran los tipos de riesgos laborales en las granjas avícolas: los riesgos que pueden presentarse en la labor de las granjas o unidades avícolas son de diferentes tipos como: los biológicos, químicos, higiénicos, psicológicos, riesgos ergonómicos, riesgos físicos mecánicos, riesgos físicos no mecánicos, riesgos eléctricos, riesgos locativos y riesgos explosivos y de incendio. 
-
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10.col-lg-9.mb-4.mb-md-0(data-aos="fade-left")
         .tarjeta.color-primario.p-3
@@ -156,53 +151,53 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-4.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los Elementos de Protección Personal (E.P.P.) Son todos aquellos equipos, aparatos o dispositivos hechos especialmente para proteger o preservar la constitucionalidad física del cuerpo humano de cualquier riesgo que pueda ocasionar un daño o accidente, en especial en la parte laboral. Estos equipos están formados por implementos que deben ser utilizados adecuadamente por los trabajadores, los cuales deben hacer un correcto uso, manejo y mantenimiento adecuados. 
+        p.mb-0 Los Elementos de Protección Personal (E.P.P.) son todos aquellos equipos, aparatos o dispositivos diseñados específicamente para resguardar la integridad física del cuerpo humano frente a riesgos que puedan dar lugar a daños o accidentes, especialmente en el entorno laboral. Estos elementos consisten en implementos que los trabajadores deben emplear de manera adecuada, asegurando un uso, manejo y mantenimiento correctos.
           br
           br
-          | La selección de los elementos de protección personal difiere de acuerdo a la labor que desempeñe el trabajador, así como del lugar donde esté ubicada, por los cual las áreas deben ir direccionadas e identificadas. 
+          | La elección de los elementos de protección personal varía según la tarea que desempeñe el trabajador y el entorno en el que se encuentre, por lo que las áreas deben estar orientadas e identificadas en consecuencia. A continuación, se enumeran los elementos esenciales necesarios para garantizar la seguridad de los empleados en una empresa del sector avícola.
 
     p.mb-5 A continuación, se mencionan los elementos básicos que se requieren para la protección de los empleados en una empresa del sector avícola. 
 
     AcordionA.mb-5.bgr_7(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
       .row(titulo="Casco").p-4
         .col-md-6.mb-4.mb-md-0
-          p Son elementos que permiten proteger, en la parte de la cabeza, al personal, para evitar golpes por caídas de objetos, resbalones, contacto con cables o líneas eléctricas.
+          p Estos elementos, tienen la función de resguardar la cabeza del personal, previniendo posibles impactos ocasionados por caídas de objetos, resbalones, o el contacto involuntario con cables o líneas eléctricas.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-5.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Gafas de seguridad").p-4
         .col-md-6.mb-4.mb-md-0
-          p Es un elemento que protege los ojos de la proyección de partículas sólidas o líquidas en el manejo de sustancias, químicas, biológicas o corrosivas, están elaboradas en policarbonato, con antiempañante. 
+          p Se trata de un dispositivo diseñado para salvaguardar los ojos de posibles impactos de partículas sólidas o líquidas durante la manipulación de sustancias químicas, biológicas o corrosivas. Estas gafas de protección están fabricadas con policarbonato y cuentan con propiedades antiempañante para evitar el empañamiento de los lentes.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-6.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Respirador con protección para material particulado").p-4
         .col-md-6.mb-4.mb-md-0
-          p Este respirador con filtro mecánico para partículas de menos de 10 micras, ayuda en el manejo de los galpones para el polvo, manejo de la cama y alimento de las aves. El respirador se conoce comúnmente como el "N-95" cubre la cara y filtra el aire, suelen ser desechables.
+          p Este respirador, equipado con un filtro mecánico diseñado para atrapar partículas de tamaño inferior a 10 micras, resulta de gran utilidad en la gestión de galpones para reducir la exposición al polvo y en actividades como el manejo de la cama y el alimento de las aves. Comúnmente reconocido como el "N-95", este tipo de respirador se ajusta al rostro y purifica el aire inhalado, siendo generalmente de un solo uso y desechable.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-7.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Guantes de hule, caucho o plástico").p-4
         .col-md-6.mb-4.mb-md-0
-          p Son diseñados para la protección de las manos, en las diferentes labores que se desempeñan dentro de los galpones, tales como limpieza y desinfección. Además, reducen el riesgo de contaminación al evitar el contacto directo con la piel.
+          p Están específicamente concebidos para resguardar las manos durante diversas tareas llevadas a cabo en los galpones, como la limpieza y la desinfección. Su función principal es disminuir el riesgo de contaminación al impedir el contacto directo de la piel con sustancias potencialmente perjudiciales.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-8.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Guantes de carnaza").p-4
         .col-md-6.mb-4.mb-md-0
-          p Son elementos diseñados para proteger de abrasiones, cortes, rozaduras o golpes, además de mejorar el agarre; en las granjas se utilizan para realizar diversas labores como el manejo de los animales y la adecuación de los galpones.
+          p Estos elementos son diseñados con el propósito de salvaguardar contra abrasiones, cortes, rozaduras y golpes, al tiempo que mejoran el agarre en diversas situaciones. En las granjas, son utilizados para llevar a cabo diversas tareas como el manejo de los animales y la adecuación de los galpones.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-9.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Botas de caucho de caña alta").p-4
         .col-md-6.mb-4.mb-md-0
-          p Las botas deben ser de caña alta, para facilitar los trabajos en condiciones húmedas como el lavado y desinfección del galpón, además que permitan la rápida y efectiva limpieza y desinfección de las mismas, deben tener suelas antideslizantes para evitar caídas y accidentes.
+          p Las botas requeridas deben tener caña alta, lo que facilita la ejecución de labores en ambientes húmedos como el lavado y desinfección de los galpones. Además, estas botas deben ser diseñadas de manera que su limpieza y desinfección sean rápidas y eficaces. Además, es crucial que tengan suelas antideslizantes para prevenir resbalones y posibles accidentes.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-10.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Overol anti fluidos, lavable, impermeable").p-4
         .col-md-6.mb-4.mb-md-0
-          p Este elemento está diseñado para proteger el cuerpo del operario de diferentes sustancias ya sean químicas, biológicas o físicas, así como de material sólido.
+          p Es una prenda de protección diseñada para evitar que los fluidos penetren y entren en contacto con la ropa interior o la piel. Es una prenda resistente al agua y puede lavarse repetidamente para mantener su funcionalidad e higiene. Este tipo de overol es comúnmente utilizado en entornos donde hay riesgo de exposición a líquidos u otros materiales que podrían ser perjudiciales.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-11.png', style="max-width:450px", alt='Texto que describa la imagen')
