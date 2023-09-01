@@ -307,8 +307,8 @@
                   p.text-small Para mayor comprensión sobre el compostaje dentro de las prácticas ambientales y sanitarias en la labor avícola, puede ver el video llamado “Compostaje de Mortalidad”.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/fd5mo5Pr1pQ" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                    span Ver video
+                    i.fas.fa-file-video
 
     p.mb-5 Los procesos anteriores de manejo de la gallinaza y pollinaza, así como, el manejo adecuado de la mortalidad hacen parte fundamental en la normatividad ambiental y sanitaria dentro del ámbito avícola, por lo que los esfuerzos del gremio se han dirigido a hacer un documento para el sector que sirva como guía para todos los productores, profesionales y operarios que intervienen activamente en la actividad, esto se hace con el fin de prevenir, controlar y mitigar el impacto ambiental que pueda ocurrir a partir de la producción. Es así como nace la “Guía ambiental para el subsector avícola”, como un documento central y básico en el tema ambiental, que a continuación se abordará.
 

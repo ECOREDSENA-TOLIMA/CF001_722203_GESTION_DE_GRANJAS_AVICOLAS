@@ -14,7 +14,7 @@
             p Es uno de estos nuevos términos que cada vez están más presentes en nuestra actividad. Se trata de un indicador ambiental clave, que refleja los gases emitidos por un individuo o empresa.
               br
               br
-              | Estos gases que se acumulan en la atmósfera son lo que producen el efecto invernadero. En resumidas cuentas, se puede definir la huella de carbono como el impacto que deja la actividad humana sobre el medio ambiente. Es decir, la marca ambiental que genera una persona, producto u organización sobre el planeta debido a sus acciones diarias, totalizadas según parámetros de emisiones de dióxido de carbono (CO2) y otros gases de efecto invernadero (GEI) liberadas a la atmósfera.  
+              | Estos gases que se acumulan en la atmósfera son lo que producen el efecto invernadero. En resumidas cuentas, se puede definir la huella de carbono como el impacto que deja la actividad humana sobre el medio ambiente. Es decir, la marca ambiental que genera una persona, producto u organización sobre el planeta debido a sus acciones diarias, totalizadas según parámetros de emisiones de dióxido de carbono (CO₂) y otros gases de efecto invernadero (GEI) liberadas a la atmósfera.  
       img.mb-4.mb-xl-0.col-xl-5.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema6/img-1.png" style="max-width: 500px")
 
     p A continuación, se revisarán otros temas que son vitales para entender cómo cada ser humano es responsable del cuidado del medio ambiente en el planeta y cómo impacta la sociedad en general. 

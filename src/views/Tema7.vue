@@ -120,7 +120,7 @@
 
       .tarjeta.color-acento-contenido.p-3(x="51%" y="50%" numero="")
         h5(style="color: #000") El exceso de nutrientes
-        p(style="color: #000") Los microorganismos a través de su acción química en el suelo convierte los componentes nitrogenados que se encuentran en la gallinaza o pollinaza en nitratos y nitritos, que normalmente ayudan a crecer el material vegetal, por lo que estos subproductos son utilizados con frecuencia para abonar, sin embargo, en concentraciones altas se convierten en componentes tóxicos afectando los suelos y aguas subterráneas.
+        p(style="color: #000") Los microorganismos a través de su acción química en el suelo, convierten los componentes nitrogenados que se encuentran en la gallinaza o pollinaza en nitratos y nitritos, que normalmente ayudan a crecer el material vegetal, por lo que estos subproductos son utilizados con frecuencia para abonar, sin embargo, en concentraciones altas se convierten en componentes tóxicos afectando los suelos y aguas subterráneas.
 
       .tarjeta.color-acento-contenido.p-3(x="84.8%" y="50%" numero="")
         h5(style="color: #000") La acción biológica
@@ -213,7 +213,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-7.mb-4.mb-md-0(data-aos="fade-right")
-        p Desde el punto de vista físico, las propiedades o características del agua son: su densidad  que  es de 1g/cm3, amplio margen de temperaturas en fase líquida (0-100º C) ya que su punto de ebullición es a 100 °C a nivel del mar  y el de congelamiento es a 0ºC, constante dieléctrica elevada que permite que las disoluciones puedan conducir la electricidad y permite la disociación de la mayoría de las sales inorgánicas; elevado calor específico y calor de vaporización lo que causa que el calor liberado en reacciones bioquímicas exotérmicas sea fácilmente absorbido y/o eliminado con pequeña variación de la temperatura del individuo; y tensión superficial muy elevada que la hace pegajosa y elástica. 
+        p Desde el punto de vista físico, las propiedades o características del agua son: su densidad  que  es de 1g/cm₃, amplio margen de temperaturas en fase líquida (0-100º C) ya que su punto de ebullición es a 100 °C a nivel del mar  y el de congelamiento es a 0ºC, constante dieléctrica elevada que permite que las disoluciones puedan conducir la electricidad y permite la disociación de la mayoría de las sales inorgánicas; elevado calor específico y calor de vaporización lo que causa que el calor liberado en reacciones bioquímicas exotérmicas sea fácilmente absorbido y/o eliminado con pequeña variación de la temperatura del individuo; y tensión superficial muy elevada que la hace pegajosa y elástica. 
       .col-md-4.mb-4.mb-md-0(data-aos="fade-down")
         figure
           img(src='@/assets/curso/temas/tema7/img-6.png', alt='')
@@ -375,7 +375,7 @@
 
     .row.justify-content-center.align-items-center
       .col-md-8.mb-4.mb-md-0(data-aos="fade-down-left")
-        p La calidad del aire puede verse afectada por emisiones y olores ofensivos generados por la gallinaza o pollinaza, por los agentes en los productos utilizados para la limpieza y desinfección, por una mala disposición de residuos, y el aumento del CO y CO2 producido por los vehículos de transporte ya sea de insumos y/o animales, huevos u otros producidos de las granjas avícolas.
+        p La calidad del aire puede verse afectada por emisiones y olores ofensivos generados por la gallinaza o pollinaza, por los agentes en los productos utilizados para la limpieza y desinfección, por una mala disposición de residuos, y el aumento del CO y CO₂ producido por los vehículos de transporte ya sea de insumos y/o animales, huevos u otros producidos de las granjas avícolas.
         p La gallinaza y la pollinaza inician su proceso de descomposición inmediatamente después de ser excretada por las aves produciendo distintos gases, algunos de los cuales afectan el entorno y la salud de los trabajadores, causan molestias a los vecinos e impactos en la atmósfera, principalmente cuando los galpones están mal diseñados (pobre ventilación) y no se respeta la densidad de aves recomendada por los expertos o las operaciones de manejo no son las mejores. 
         p A continuación, se mencionan los gases de mayor impacto emitidos durante la descomposición de estos residuos son:
       .col-md-4.mb-4.mb-md-0(data-aos="fade-down")
@@ -572,7 +572,7 @@ export default {
       {
         titulo: '3. Metano',
         texto:
-          'Es un gas combustible producido en condiciones anaeróbicas, es decir, cuando la gallinaza y la pollinaza superan el 80% de humedad. El metano (CH4), tiene la capacidad de absorber radiación infrarroja propiciando el calentamiento gradual de la atmósfera, lo que se conoce como efecto invernadero. El índice de absorción de radiación infrarroja del metano es de 58 en una escala en la cual el valor de referencia de uno, corresponde al dióxido de carbono (CO2).',
+          'Es un gas combustible producido en condiciones anaeróbicas, es decir, cuando la gallinaza y la pollinaza superan el 80% de humedad. El metano (CH₄), tiene la capacidad de absorber radiación infrarroja propiciando el calentamiento gradual de la atmósfera, lo que se conoce como efecto invernadero. El índice de absorción de radiación infrarroja del metano es de 58 en una escala en la cual el valor de referencia de uno, corresponde al dióxido de carbono (CO₂).',
         icono: require('@/assets/curso/temas/tema7/metano-3.png'),
       },
       {
@@ -582,7 +582,7 @@ export default {
         icono: require('@/assets/curso/temas/tema7/carbono-4.png'),
       },
       {
-        titulo: '5. Gas sulfhídrico, H2S',
+        titulo: '5. Gas sulfhídrico, H₂S',
         texto:
           'Se produce por la degradación biológica en condiciones anaerobias de los compuestos azufrados. El gas sulfhídrico o sulfuro de hidrógeno tiene el olor característico del «huevo podrido» perceptible a concentraciones muy bajas (2 ppm). Es el principal agente aromático de las emisiones provenientes de la descomposición del estiércol y es un gas altamente corrosivo, que afecta principalmente los metales ferrosos.',
         icono: require('@/assets/curso/temas/tema7/gas-5.png'),
