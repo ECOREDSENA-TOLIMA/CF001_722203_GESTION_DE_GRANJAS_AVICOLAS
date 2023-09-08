@@ -81,7 +81,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.2 Manejo de insumos ambientales y sanitarios
+      h2#t_1_2 1.2 Manejo de insumos ambientales y sanitarios
 
     p El uso eficiente de los insumos implica tener los cuidados necesarios para que no se produzcan desperdicios en ninguna parte del proceso, el cual también es uno de los principios de las buenas prácticas, porque al final todo el desperdicio termina siendo un desecho y un sobre costo, debe ser organizado y almacenado eficientemente.  
     p.mb-5 Para lograr la eficiencia en el uso de los insumos se tienen que seguir las siguientes reglas:
@@ -117,7 +117,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.3 Riesgos laborales
+      h2#t_1_3 1.3 Riesgos laborales
 
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
@@ -145,7 +145,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.4 Dotación de personal y elementos de protección
+      h2#t_1_4 1.4 Dotación de personal y elementos de protección
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(

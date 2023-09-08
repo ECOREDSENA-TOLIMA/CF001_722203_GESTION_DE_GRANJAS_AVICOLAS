@@ -17,7 +17,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.1 Protocolos de manejo ambiental
+      h2#t_2_1 2.1 Protocolos de manejo ambiental
 
     p.mb-5 Como parte del sistema de gestión de calidad a nivel ambiental se hace necesario definir protocolos que den pautas respecto a los procesos productivos, ya que la mejora de estos permite un control de la contaminación ambiental en las empresas del sector avícola y su impacto en la comunidad las cuales podrá profundizar a continuación dando clic sobre cada huevo. 
 
@@ -50,7 +50,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.2 Normativa sobre el manejo ambiental 
+      h2#t_2_2 2.2 Normativa sobre el manejo ambiental 
 
     p.mb-5 La normativa establecida para el manejo ambiental se enfoca especialmente en el desarrollo de un plan de manejo ambiental, el cual debe ser adaptado a cada proyecto o actividad en particular. En el ámbito de la industria avícola, existe una ventaja significativa en la forma de un modelo preestablecido que se encuentra en "La guía ambiental para el subsector avícola". Esta guía ofrece orientación a los productores del sector sobre cómo diseñar y seguir el plan adecuado.
 

@@ -33,7 +33,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.1 ¿Qué es la segregación? 
+      h2#t_4_1 4.1 ¿Qué es la segregación? 
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
@@ -43,7 +43,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.2 Separación en la fuente
+      h2#t_4_2 4.2 Separación en la fuente
     
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
@@ -53,7 +53,7 @@
     Separador
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.3 Reducir, reutilizar y reciclar 
+      h2#t_4_3 4.3 Reducir, reutilizar y reciclar 
 
     p.mb-5 A esto se le denomina la regla de las tres erres (3R) y es una estrategia que busca cuidar el medio ambiente al reducir la cantidad de residuos generados diariamente. Estas tres erres promueven la reducción de basura, el ahorro y un consumo más consciente. A continuación, se detalla el significado de las 3R:
     
@@ -82,7 +82,7 @@
                 i.fas.fa-link(style="color: #12263F !important;")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.4 Tipos de rotulado y características de almacenamiento 
+      h2#t_4_4 4.4 Tipos de rotulado y características de almacenamiento 
 
     .row.mb-3.justify-content-center.align-items-center
       .col-12.col-md-5.mb-5.mb-lg-0(data-aos="fade-right")
@@ -184,7 +184,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.5 Clases de rutas
+      h2#t_4_5 4.5 Clases de rutas
 
     .row.justify-content-center.align-items-center
       .col-md-7.mb-4.mb-md-0(data-aos="fade-down-left")

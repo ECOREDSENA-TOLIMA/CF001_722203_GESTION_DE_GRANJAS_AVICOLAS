@@ -37,7 +37,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.1 Medidas de prevención, mitigación, control y compensación
+      h2#t_7_1 7.1 Medidas de prevención, mitigación, control y compensación
   
     p.mb-5 Las medidas de mitigación ambiental tienen por finalidad evitar o disminuir los efectos adversos de un proyecto o actividad, cualquiera sea su fase de ejecución. Estas se expresarán en un plan, el cual deberá considerar, a lo menos, una de las siguientes medidas: 
 
@@ -92,7 +92,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.2 Recurso suelo 
+      h2#t_7_2 7.2 Recurso suelo 
 
     .row.mb-5.justify-content-center.align-items-center
       .col-12.col-md-5.mb-5.mb-lg-0(data-aos="fade-right")
@@ -196,7 +196,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.3 Recurso agua 
+      h2#t_7_3 7.3 Recurso agua 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -371,7 +371,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.4 Recurso aire
+      h2#t_7_4 7.4 Recurso aire
 
     .row.justify-content-center.align-items-center
       .col-md-8.mb-4.mb-md-0(data-aos="fade-down-left")

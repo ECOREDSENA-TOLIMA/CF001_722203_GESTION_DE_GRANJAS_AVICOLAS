@@ -112,7 +112,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.1 Sanitización de la gallinaza o pollinaza 
+      h2#t_5_1 5.1 Sanitización de la gallinaza o pollinaza 
 
     .row.mb-5.justify-content-center.align-items-center
       .col-12.col-md-5.mb-5.mb-lg-0(data-aos="fade-right")
@@ -173,7 +173,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.2 Compostaje de mortalidad
+      h2#t_5_2 5.2 Compostaje de mortalidad
 
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1

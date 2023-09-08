@@ -22,7 +22,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 6.1 Importancia ambiental y económica 
+      h2#t_6_1 6.1 Importancia ambiental y económica 
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-5
       .col-12.col-md-3.col-lg-1
@@ -41,7 +41,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 6.2 Regulaciones, entidades certificadoras y requerimientos para ingresar a los mercados internacionales
+      h2#t_6_2 6.2 Regulaciones, entidades certificadoras y requerimientos para ingresar a los mercados internacionales
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
