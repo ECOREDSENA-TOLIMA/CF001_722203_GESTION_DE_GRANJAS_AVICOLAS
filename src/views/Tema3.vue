@@ -47,7 +47,7 @@
                 td.text-center Política Nacional para la Gestión Integral Ambiental del Suelo (GIAS), 2013. 
                 td Se presenta la Política Nacional para la Gestión Integral Ambiental del Suelo (GIAS) con el fin de aportar a la conservación y uso sostenible de este componente determinante de los ciclos del agua, del aire y de los nutrientes e indispensable para la preservación de la biodiversidad y sus servicios ecosistémicos.
                 td.text-center
-                  a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/DI_CF1_Anexo1_Politica-de-gestion-integral-del-suelo minam.pdf')" target="_blank")
+                  a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/Anexo1_Politica_de_gestion_integral_del_suelo_minam.pdf')" target="_blank")
                     span Descargar PDF
                     i.fas.fa-download
               tr

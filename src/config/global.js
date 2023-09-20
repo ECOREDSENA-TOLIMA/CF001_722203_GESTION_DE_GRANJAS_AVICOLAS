@@ -108,7 +108,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Plan de gestión integral de residuos sólidos (PGIRS)',
+        titulo: 'Plan de Gestión Integral de Residuos Sólidos (PGIRS)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -145,8 +145,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo:
-          'Guía Ambiental para el subsector avícola Federación Nacional de Avicultores de Colombia (FENAVI 2014)',
+        titulo: 'Guía ambiental para el subsector avícola, FENAVI 2014',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -269,7 +268,7 @@ export default {
     {
       termino: 'Gallinaza',
       significado:
-        'se le llama así a la excreta de la gallina, la cual posee mayor macro nutrientes como fosforo y nitrógeno en comparación a la pollinaza. (Guía de Buenas Prácticas Ambientales para el sector avícola en Guatemala, 2008).',
+        'se le llama así a la excreta de la gallina, la cual posee mayor macro nutrientes como fósforo y nitrógeno en comparación a la pollinaza. (Guía de Buenas Prácticas Ambientales para el sector avícola en Guatemala, 2008).',
     },
     {
       termino: 'Impacto ambiental',
@@ -374,7 +373,8 @@ export default {
     },
     {
       referencia: 'Cornare. (2014). Slide de Olores.',
-      link: 'https://www.cornare.gov.co',
+      link:
+        'https://www.cornare.gov.co/SIAR/aire/OLORES/CONTENIDO/PRESENTACION-OLORES.pdf',
     },
     {
       referencia:
@@ -459,7 +459,7 @@ export default {
     },
     {
       referencia:
-        'Norma Técnica colombiana NTC-ISO 5167. Productos Orgánicos Usados como Abonos o Fertilizantes.',
+        'Norma Técnica colombiana NTC-ISO 5167. Norma Técnica Colombiana para Productos Orgánicos Usados como Abonos o Fertilizantes y enmiendas o acondicionadores de suelo.',
       link:
         'https://www.emcali.com.co/web/normograma/inicio/-/document_library/bVwXGToT8nTh/view_file/163565',
     },

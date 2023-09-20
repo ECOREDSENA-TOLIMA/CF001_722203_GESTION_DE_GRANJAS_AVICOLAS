@@ -19,8 +19,8 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.1 Normatividad seguridad y salud en el trabajo 
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.1 Normatividad seguridad y salud en el trabajo 
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-5
       .col-12.col-md-3.col-lg-1
@@ -80,8 +80,8 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_2 1.2 Manejo de insumos ambientales y sanitarios
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.2 Manejo de insumos ambientales y sanitarios
 
     p El uso eficiente de los insumos implica tener los cuidados necesarios para que no se produzcan desperdicios en ninguna parte del proceso, el cual también es uno de los principios de las buenas prácticas, porque al final todo el desperdicio termina siendo un desecho y un sobre costo, debe ser organizado y almacenado eficientemente.  
     p.mb-5 Para lograr la eficiencia en el uso de los insumos se tienen que seguir las siguientes reglas:
@@ -116,8 +116,8 @@
 
     Separador 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_3 1.3 Riesgos laborales
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.3 Riesgos laborales
 
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
@@ -144,8 +144,8 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_4 1.4 Dotación de personal y elementos de protección
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.4 Dotación de personal y elementos de protección
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -196,7 +196,7 @@
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-10.png', style="max-width:450px", alt='Texto que describa la imagen')
-      .row(titulo="Overol anti fluidos, lavable, impermeable").p-4
+      .row(titulo="Overol antifluidos, lavable, impermeable").p-4
         .col-md-6.mb-4.mb-md-0
           p Es una prenda de protección diseñada para evitar que los fluidos penetren y entren en contacto con la ropa interior o la piel. Es una prenda resistente al agua y puede lavarse repetidamente para mantener su funcionalidad e higiene. Este tipo de overol es comúnmente utilizado en entornos donde hay riesgo de exposición a líquidos u otros materiales que podrían ser perjudiciales.
         .col-md-6

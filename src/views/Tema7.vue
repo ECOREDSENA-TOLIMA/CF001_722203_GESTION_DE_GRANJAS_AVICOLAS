@@ -35,64 +35,80 @@
     p Lo anterior, permite contribuir al mejoramiento productivo y ambiental de las granjas, incubadoras y plantas de beneficio del subsector avícola colombiano y ofrecer una herramienta de consulta permanente para este, a través de la adopción de medidas de prevención y control de los impactos ambientales que ayuden a prevenir, mitigar, controlar y compensar el deterioro que la producción avícola causa en el ambiente producto de sus actividades. 
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_1 7.1 Medidas de prevención, mitigación, control y compensación
+    #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.1 Medidas de prevención, mitigación, control y compensación
   
     p.mb-5 Las medidas de mitigación ambiental tienen por finalidad evitar o disminuir los efectos adversos de un proyecto o actividad, cualquiera sea su fase de ejecución. Estas se expresarán en un plan, el cual deberá considerar, a lo menos, una de las siguientes medidas: 
 
-    .col-xl-12.mx-auto
-      .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 7.
-        span <em>Medidas de mitigación ambiental</em>
+    //- .col-xl-12.mx-auto
+    //-   .titulo-sexto.color-primario(data-aos="fade-right")
+    //-     h5 Figura 5.
+    //-     span <em>Medidas de mitigación ambiental</em>
 
-      .row.justify-content-center.align-items-center
-        .col-md-11.col-12(data-aos="fade-down")
-          .tarjeta-avatar-b.mb-5
-            .tarjeta-avatar-b__img.px-4
-              img(src='@/assets/curso/temas/tema7/decorador-1.svg' alt='AvatarTop')
-            .tarjeta.tarjeta--custom
-              .p-4
-                p Las que impidan o eviten completamente el efecto adverso significativo, mediante la no ejecución de una obra o acción, o de alguna de sus partes. 
-        .col-md-11.col-12(data-aos="fade-down")
-          .tarjeta-avatar-b.mb-5
-            .tarjeta-avatar-b__img.px-4
-              img(src='@/assets/curso/temas/tema7/decorador-2.svg' alt='AvatarTop')
-            .tarjeta.tarjeta--custom
-              .p-4
-                p Las que minimizan o disminuyen el efecto adverso significativo, mediante una adecuada limitación o reducción de la magnitud o duración de la obra o acción, o de alguna de sus partes, o a través de la implementación de medidas específicas.
-        .col-md-11.col-12(data-aos="fade-down")
-          .tarjeta-avatar-b.mb-5
-            .tarjeta-avatar-b__img.px-4
-              img(src='@/assets/curso/temas/tema7/decorador-3.svg' alt='AvatarTop')
-            .tarjeta.tarjeta--custom
-              .p-4
-                p Las medidas de reparación y/o restauración tienen por finalidad reponer uno o más de los componentes o elementos del medio ambiente a una calidad similar a la que tenían con anterioridad al daño causado o, en caso de no ser ello posible, restablecer sus propiedades básicas. Dichas medidas se expresarán en un Plan de Medidas de Reparación y/o Restauración.
-        .col-md-11.col-12(data-aos="fade-down")
-          .tarjeta-avatar-b.mb-5
-            .tarjeta-avatar-b__img.px-4
-              img(src='@/assets/curso/temas/tema7/decorador-4.svg' alt='AvatarTop')
-            .tarjeta.tarjeta--custom
-              .p-4
-                p Las medidas de compensación ambiental tienen por finalidad producir o generar un efecto positivo alternativo y equivalente a un efecto adverso identificado. Dichas medidas se expresarán en un Plan de Medidas de Compensación, el que incluirá el reemplazo o sustitución de los recursos naturales o elementos del medio ambiente afectados, por otros de similares características, clase, naturaleza y calidad.
+    .row.justify-content-center.align-items-center
+      .col-md-11.col-12(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img.px-4
+            img(src='@/assets/curso/temas/tema7/decorador-1.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--custom
+            .p-4
+              p Las que impidan o eviten completamente el efecto adverso significativo, mediante la no ejecución de una obra o acción, o de alguna de sus partes. 
+      .col-md-11.col-12(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img.px-4
+            img(src='@/assets/curso/temas/tema7/decorador-2.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--custom
+            .p-4
+              p Las que minimizan o disminuyen el efecto adverso significativo, mediante una adecuada limitación o reducción de la magnitud o duración de la obra o acción, o de alguna de sus partes, o a través de la implementación de medidas específicas.
+      .col-md-11.col-12(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img.px-4
+            img(src='@/assets/curso/temas/tema7/decorador-3.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--custom
+            .p-4
+              p Las medidas de reparación y/o restauración tienen por finalidad reponer uno o más de los componentes o elementos del medio ambiente a una calidad similar a la que tenían con anterioridad al daño causado o, en caso de no ser ello posible, restablecer sus propiedades básicas. Dichas medidas se expresarán en un Plan de Medidas de Reparación y/o Restauración.
+      .col-md-11.col-12(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img.px-4
+            img(src='@/assets/curso/temas/tema7/decorador-4.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--custom
+            .p-4
+              p Las medidas de compensación ambiental tienen por finalidad producir o generar un efecto positivo alternativo y equivalente a un efecto adverso identificado. Dichas medidas se expresarán en un Plan de Medidas de Compensación, el que incluirá el reemplazo o sustitución de los recursos naturales o elementos del medio ambiente afectados, por otros de similares características, clase, naturaleza y calidad.
 
     p Las dos últimas, sólo se llevarán a cabo en las áreas o lugares en que se presenten efectos adversos significativos que resulten de la ejecución o modificación de los planes de mitigación ambientales originales. 
     p  Por otro lado, las medidas de mitigación están hechas para disminuir y soportar los efectos e impactos en el ambiente productos de la actividad avícola y todo lo que ella conlleva, es decir, el uso del suelo, el agua, el aire, ya sea en la elaboración o adecuación de la infraestructura, el transporte, la generación de residuos y disposición de los mismos, y como tal el manejo de la producción por parte de administrativos, operarios, profesionales y demás personal que interactúa en el proceso. 
     p.mb-5 Si la aplicación y evaluación del impacto ambiental del proyecto o actividad se deducen eventuales situaciones de riesgo al medio ambiente, el titular del proyecto o actividad deberá proponer medidas de prevención de riesgos y de control de accidentes, las cuales se mencionan en la siguiente figura: 
 
-    .col-xl-10.mx-auto.mb-5
-      .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 8.
-        span <em>Medidas de prevención de riesgos y de control de accidentes.  </em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema7/img-2.svg" data-aos="fade-left")
+    .row(data-aos="fade-right")
+      .col-md-6.d-flex.align-items-stretch
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema7/ico1.svg' alt='')
+          .tarjeta.tarjeta--azul2
+            .p-4
+              h4 Medidas de prevención de riesgo
+              p.mb-0 Tienen por finalidad evitar que aparezcan efectos desfavorables en la población o en el medio ambiente.
+      .col-md-6.d-flex.align-items-stretch
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema7/ico2.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul3
+            .p-4
+              h4 Medidas de control de accidentes
+              p.mb-0 Tienen por finalidad permitir la intervención eficaz en los sucesos que alteren el desarrollo normal de un proyecto o actividad, en tanto puedan causar daños a la vida, a la salud humana o al medio ambiente.
+
+    //- .col-xl-10.mx-auto.mb-5
+    //-   .titulo-sexto.color-primario(data-aos="fade-right")
+    //-     h5 Figura 6.
+    //-     span <em>Medidas de prevención de riesgos y de control de accidentes.  </em>
+    //-   img.d-md-block.mb-5(src="@/assets/curso/temas/tema7/img-2.svg" data-aos="fade-left")
 
     p Desde este punto de vista está considerado el tema de salud y seguridad en el trabajo, pero además el de las poblaciones aledañas a las producciones, las cuales pueden ser impactadas por las actividades de producción en las granjas avícolas, demostrando que no sólo es importante el factor ambiental en terreno y recursos aprovechables, sino también en las poblaciones, ya sean estas internas o externas. 
     p.mb-5 En este orden de ideas, entre los factores o recursos que se deben tener en cuenta cuando se habla de la parte ambiental de todo tipo de actividad, proyecto o producción, están: el recurso del suelo, el agua y el aire, principalmente, porque son los que, de acuerdo a su manejo pueden derivar en impactos ambientales significativos y por eso los abordaremos más detalladamente a continuación. 
 
     Separador
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_2 7.2 Recurso suelo 
+    #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.2 Recurso suelo 
 
     .row.mb-5.justify-content-center.align-items-center
       .col-12.col-md-5.mb-5.mb-lg-0(data-aos="fade-right")
@@ -101,7 +117,7 @@
       .col-12.col-md-7.mb-lg-0(data-aos="fade-left")
         p Para el recurso suelo, la mayoría de contaminación producida se da por el inadecuado manejo de la pollinaza y gallinaza, ósea cuando son utilizadas como productos de abono y no se les ha realizado ningún tipo de proceso que cumpla con los parámetros que se establecen para los abonos o fertilizantes orgánicos (véase la Norma Técnica Colombiana para Productos Orgánicos Usados como Abonos o Fertilizantes: NTC 5167 / ICONTEC y las Resoluciones ICA 150 de 2003 y 0968 de 2010). 
 
-    p.mb-5 Aplicar erróneamente abonos o fertilizantes orgánicos en el suelo pueden causar graves problemas a corto mediano o largo plazo como se mencionará a continuación: 
+    p.mb-5 Aplicar erróneamente abonos o fertilizantes orgánicos en el suelo pueden causar graves problemas a corto, mediano o largo plazo como se mencionará a continuación: 
     
     ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
@@ -124,15 +140,26 @@
 
       .tarjeta.color-acento-contenido.p-3(x="84.8%" y="50%" numero="")
         h5(style="color: #000") La acción biológica
-        p(style="color: #000") A causa de las acciones anteriores, se puede presentar la diseminación de patógenos procedentes de la gallinaza o pollinaza, que se propaguen debido a un ambiente propicio (por ejemplo E.coli)
+        p(style="color: #000") A causa de las acciones anteriores, se puede presentar la diseminación de patógenos procedentes de la gallinaza o pollinaza, que se propaguen debido a un ambiente propicio (por ejemplo E. coli)
 
-    p.mb-5 Adicionalmente hay que tener otras consideraciones, no menos importantes, tales como: si se trata de un residuo estabilizado y saneado, o no, revise la siguiente figura para conocer la diferencia de cada uno.   
+    p.mb-5 Adicionalmente hay que tener otras consideraciones, no menos importantes, tales como: si se trata de un residuo estabilizado y saneado, o no, revise la siguiente información para conocer la diferencia de cada uno.   
 
-    .col-xl-10.mx-auto.mb-5
-      .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 9.
-        span <em>Tipos de residuos</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema7/img-5.svg" data-aos="fade-left")
+    //- .col-xl-10.mx-auto.mb-5
+      //- .titulo-sexto.color-primario(data-aos="fade-right")
+      //-   h5 Figura 5.
+      //-   span <em>Tipos de residuos</em>
+      //- img.d-md-block.mb-5(src="@/assets/curso/temas/tema7/img-5.svg" data-aos="fade-left" alt="En la figura 5 se muestran los tipos de residuos.")
+    .row.mb-5(data-aos="fade-right")
+      .col-md-6.col-12.mb-5.mb-lg-0.d-flex.align-items-stretch
+        .tarjeta.tarjeta--azul2
+          h4.text-center.mb-0.py-3.text-white(style="background-color:#03A4A4") Residuo fresco
+          .p-4
+            p.mb-0 Si es un residuo fresco la generación de olores puede presentarse como un problema, debido a que se incrementa la actividad microbiológica y con ella la rápida descomposición en el suelo, generando sustancias fito-tóxicas que elevan los contenidos de nitratos en material vegetal y origina lixiviados.
+      .col-md-6.col-12.mb-5.mb-lg-0.d-flex.align-items-stretch
+        .tarjeta.tarjeta--azul2
+          h4.text-center.mb-0.py-3.text-white(style="background-color:#03A4A4") Residuo no saneado previamente
+          .p-4
+            p.mb-0 Si el residuo no ha sido previamente saneado, se favorecerá la diseminación de elementos patógenos propios de las producciones avícolas y que pueden estar presentes en las deyecciones de las aves, residuos de cascaras y otros residuos.
 
     p.mb-5 Por lo anterior, se debe llevar un adecuado plan de fertilización o acondicionamiento de suelos, el cual deberá contemplar las características fisicoquímicas y grado de estabilidad del producto que se piensa aplicar, así como las características del suelo (capacidad de drenaje, tipo de suelo, presencia de elementos mayores y menores) y las necesidades nutritivas de los cultivos a fertilizar. 
 
@@ -170,7 +197,7 @@
                 | Cumplir con las normas ambientales en lo referente al manejo y disposición final de residuos peligrosos.
               li  
                 i.lista-ul__vineta
-                | Los residuos peligrosos resultantes de la labor en las incubadoras tales como frascos plásticos o de vidrio, los cuales han estado en contacto directo o parcialmente con residuos biológicos, se les debe dar el siguiente tratamiento: sumergir en una solución de hipoclorito al 5% durante 30 a 60 minutos y quebrar o despicar (vidrío) o cortar y rajar (plástico) según sea el caso, para evitar el uso ilegal o inadecuado de los envases.
+                | Los residuos peligrosos resultantes de la labor en las incubadoras tales como frascos plásticos o de vidrio, los cuales han estado en contacto directo o parcialmente con residuos biológicos, se les debe dar el siguiente tratamiento: sumergir en una solución de hipoclorito al 5 % durante 30 a 60 minutos y quebrar o despicar (vidrío) o cortar y rajar (plástico) según sea el caso, para evitar el uso ilegal o inadecuado de los envases.
               li  
                 i.lista-ul__vineta
                 | Es aconsejable almacenar los residuos sistemáticamente hasta lograr una cantidad considerable para ser recolectada por la empresa prestadora del servicio. No debe hacerse disposición final a través de la quema en ningún lugar de la producción.
@@ -194,9 +221,8 @@
                 | En el uso de los plaguicidas se deben seguir las instrucciones de manejo seguro suministradas en la etiqueta del producto. Cuando se termina el producto, se debe realizar la práctica de triple lavado a los envases e inutilizarlos sin destruir la información de las etiquetas. Estos son considerados residuos post consumo de acuerdo al Decreto 4741 de 2005 y por lo tanto deben retornarse al mecanismo de devolución que el fabricante o importador haya establecido, de acuerdo con lo previsto en la Resolución 0693 de 2007.
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_3 7.3 Recurso agua 
+    #t_7_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.3 Recurso agua 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -369,9 +395,8 @@
     p En la gestión avícola se debe tener en cuenta otro recurso, en este caso corresponde al aire en el plan de mitigación.
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_4 7.4 Recurso aire
+    #t_7_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.4 Recurso aire
 
     .row.justify-content-center.align-items-center
       .col-md-8.mb-4.mb-md-0(data-aos="fade-down-left")
@@ -439,9 +464,9 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 10.
+        h5 Figura 5.
         span <em>Propagación de olores y sus mecanismos</em>
-      img.d-md-block(src="@/assets/curso/temas/tema7/img-14.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema7/img-14.svg" data-aos="fade-left" alt="En la figura 5 se muestra la propagación de olores y sus mecanismos.")
       figcaption Nota: tomada del Manual de buenas prácticas disponibles para la mitigación de olores en la industria avícola, Federación Nacional de Avicultores de Colombia FENAVI - FONAV (2018)
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -572,7 +597,7 @@ export default {
       {
         titulo: '3. Metano',
         texto:
-          'Es un gas combustible producido en condiciones anaeróbicas, es decir, cuando la gallinaza y la pollinaza superan el 80% de humedad. El metano (CH₄), tiene la capacidad de absorber radiación infrarroja propiciando el calentamiento gradual de la atmósfera, lo que se conoce como efecto invernadero. El índice de absorción de radiación infrarroja del metano es de 58 en una escala en la cual el valor de referencia de uno, corresponde al dióxido de carbono (CO₂).',
+          'Es un gas combustible producido en condiciones anaeróbicas, es decir, cuando la gallinaza y la pollinaza superan el 80 % de humedad. El metano (CH₄), tiene la capacidad de absorber radiación infrarroja propiciando el calentamiento gradual de la atmósfera, lo que se conoce como efecto invernadero. El índice de absorción de radiación infrarroja del metano es de 58 en una escala en la cual el valor de referencia de uno, corresponde al dióxido de carbono (CO₂).',
         icono: require('@/assets/curso/temas/tema7/metano-3.png'),
       },
       {

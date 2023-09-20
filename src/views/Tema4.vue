@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Plan de mejora 
+      h1 Sistema de Gestión Ambiental (S.G.A.) Norma ISO 14001 de 2015
 
     .d-flex.flex-wrap.mb-5
       .col-xl-7.pe-xl-5.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
         .cajon.color-primario.p-4.d-flex.flex-wrap(data-aos="fade-right")
           .col-md-11.ps-lg-4
-            p La norma ISO 14001 llamada “Sistemas de gestión ambiental”, es un plan operativo diseñado para que las empresas u organizaciones implementen buenas prácticas ambientales y se certifiquen en el manejo responsable de todo material derivado de sus quehaceres, con lo cual se disminuye la afectación del ambiente. Las instituciones que lo hagan estarán demostrando que están llevando a cabo sus actividades productivas de acuerdo a los estándares que se han fijado en cuanto a materia medioambiental promoviendo la protección del medio natural, la prevención de la contaminación y es el estándar internacional.
+            p La norma ISO 14001 llamada “Sistemas de Gestión Ambiental”, es un plan operativo diseñado para que las empresas u organizaciones implementen buenas prácticas ambientales y se certifiquen en el manejo responsable de todo material derivado de sus quehaceres, con lo cual se disminuye la afectación del ambiente. Las instituciones que lo hagan estarán demostrando que están llevando a cabo sus actividades productivas de acuerdo a los estándares que se han fijado en cuanto a materia medioambiental promoviendo la protección del medio natural, la prevención de la contaminación y es el estándar internacional.
       img.mb-4.mb-xl-0.col-xl-5.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema4/img-1.png" data-aos="fade-left" style="max-width: 500px")
 
     .row.justify-content-center.align-items-center.mb-4
@@ -31,9 +31,8 @@
                     i.fas.fa-file-download
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_4_1 4.1 ¿Qué es la segregación? 
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 4.1 ¿Qué es la segregación? 
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
@@ -41,9 +40,8 @@
       p.col.mb-0.col-md-9.col-lg-11.ps-lg-4(data-aos="fade-left") Es el proceso en el que se separa de forma correcta y eficiente los distintos productos desechados. De este modo, se contribuye activamente a economías más sostenibles y limpias capaces de reducir los vertidos y aprovechar los materiales mediante la reducción, reutilización y reciclaje. Esta actividad tiene como objetivo principal pasar de un consumo lineal a uno circular. 
 
     Separador
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_4_2 4.2 Separación en la fuente
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 4.2 Separación en la fuente
     
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
@@ -51,26 +49,48 @@
       p.col.mb-0.col-md-9.col-lg-11.ps-lg-4(data-aos="fade-left") La separación en la fuente es la actividad que permite seleccionar y almacenar los diferentes residuos sólidos en su lugar de origen, para facilitar su posterior manejo y aprovechamiento; es un mecanismo efectivo para mitigar el impacto negativo de los residuos sólidos en el medio ambiente y prolongar la vida útil de los rellenos sanitarios, pero para esto, se necesita que esta actividad se convierta en un hábito cotidiano de todos los hogares y demás grupos de la sociedad.
 
     Separador
-    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_4_3 4.3 Reducir, reutilizar y reciclar 
+    #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 4.3 Reducir, reutilizar y reciclar 
 
     p.mb-5 A esto se le denomina la regla de las tres erres (3R) y es una estrategia que busca cuidar el medio ambiente al reducir la cantidad de residuos generados diariamente. Estas tres erres promueven la reducción de basura, el ahorro y un consumo más consciente. A continuación, se detalla el significado de las 3R:
     
-    .row.justify-content-center(data-aos="fade-right")
-      .col-lg-10
-        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
-          img.pb-5(src="@/assets/curso//temas/tema4/cuadro-1.svg" data-aos="zoom-in-up" alt="")
-        figure.movil.mt-0  
-          .row.justify-content-center.d-lg-none.d-md-none  
-            img.pb-5(src="@/assets/curso/temas/tema4/cuadro-2.svg" data-aos="zoom-in-up" alt="")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-4.col-12.mb-5.mb-lg-0(data-aos="fade-right")
+        div
+          img(src='@/assets/curso/temas/tema4/tema4-3.png' alt='')
+        .tarjeta-c.color-acento-contenido
+          .p-3.text-black
+            h4.text-center Reducir
+            p.text-center Implica disminuir la cantidad de productos que consumimos y utilizamos en general. Esto se logra evitando compras impulsivas, eligiendo productos con menos envases y evitando el uso excesivo de recursos.
+      .col-md-4.col-12.mb-5.mb-lg-0(data-aos="fade-down")
+        div
+          img(src='@/assets/curso/temas/tema4/tema4-4.png' alt='')
+        .tarjeta-c.color-acento-contenido
+          .p-3.text-black
+            h4.text-center Reutilizar
+            p.text-center Se refiere a emplear nuevamente objetos o productos en lugar de desecharlos. Esto puede involucrar la reparación de objetos, la donación de cosas que ya no necesitamos o la creatividad para darles nuevos usos.
+      .col-md-4.col-12.mb-5.mb-lg-0(data-aos="fade-left")
+        div
+          img(src='@/assets/curso/temas/tema4/tema4-5.png' alt='')
+        .tarjeta-c.color-acento-contenido
+          .p-3.text-black
+            h4.text-center Reciclar
+            p.text-center Consiste en procesar y transformar materiales que ya no necesitamos en nuevos productos. El reciclaje contribuye a reducir la demanda de recursos naturales y disminuir la cantidad de residuos.
+
+    //- .row.justify-content-center(data-aos="fade-right")
+    //-   .col-lg-10
+    //-     figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+    //-       img.pb-5(src="@/assets/curso//temas/tema4/cuadro-1.svg" data-aos="zoom-in-up" alt="")
+    //-     figure.movil.mt-0  
+    //-       .row.justify-content-center.d-lg-none.d-md-none  
+    //-         img.pb-5(src="@/assets/curso/temas/tema4/cuadro-2.svg" data-aos="zoom-in-up" alt="")
 
     p.mb-5 Estas tres acciones combinadas buscan minimizar el impacto ambiental de nuestras acciones diarias y promover un estilo de vida más sostenible.
 
-    .tarjeta.color-primario.p-3.mt-3.caja_flotante_azul.col-md-9.m-auto.mb-5(data-aos="fade-down")
+    .tarjeta.color-primario.p-3.mt-3.caja_flotante_azul.col-12.col-lg-10.m-auto.mb-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
-        .col-4.col-sm-2.col-lg-2
-          img.p-4.imagen_flotante_animada(src="@/assets/curso/temas/tema4/decorador-3.svg")
+        .col-4.col-sm-3.col-lg-2
+          img.p-md-4.p-sm-0.imagen_flotante_animada(src="@/assets/curso/temas/tema4/decorador-4.svg")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
@@ -78,11 +98,12 @@
               p(style="color: #FFFF") Para profundizar sus conocimientos acerca del tema sobre reducir, reutilizar y reciclar, puede revisar el video llamado “3R de la Ecología”.
             .col-sm-auto
               a.boton.boton--b.color-acento-botones(href="https://youtu.be/rRCZzrMjiY0" target="_blank")
-                span(style="color: #12263F !important;") Ir al sitio web
-                i.fas.fa-link(style="color: #12263F !important;")
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_4_4 4.4 Tipos de rotulado y características de almacenamiento 
+                span(style="color: #12263F !important;") Ver video
+                i.fas.fa-file-video(style="color: #12263F !important;")
+    
+    Separador
+    #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 4.4 Tipos de rotulado y características de almacenamiento 
 
     .row.mb-3.justify-content-center.align-items-center
       .col-12.col-md-5.mb-5.mb-lg-0(data-aos="fade-right")
@@ -167,10 +188,10 @@
 
     p.mb-5 Como se puede apreciar, es de vital importancia considerar diversos elementos al gestionar empresas avícolas en Colombia, dado que el cumplimiento de estos estándares, cuando se determina en buenas prácticas aplicadas diariamente, genera productos de calidad que se comercializan tanto a nivel nacional como internacional.
 
-    .tarjeta.color-primario.p-3.mt-3.caja_flotante_azul.col-md-9.m-auto.mb-5(data-aos="fade-down")
+    .tarjeta.color-primario.p-3.mt-3.caja_flotante_azul.col-12.col-lg-10.m-auto.mb-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
-        .col-4.col-sm-2.col-lg-2
-          img.p-4.imagen_flotante_animada(src="@/assets/curso/temas/tema4/decorador-4.svg")
+        .col-4.col-sm-3.col-lg-2
+          img.p-md-4.p-sm-0.imagen_flotante_animada(src="@/assets/curso/temas/tema4/decorador-4.svg")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
@@ -178,13 +199,12 @@
               p(style="color: #FFFF") Para ampliar conocimientos sobre la nomenclatura para la clasificación por colores puede ver el video “Clasificación de los residuos sólidos 2019”.
             .col-sm-auto
               a.boton.boton--b.color-acento-botones(href="https://www.youtube.com/watch?v=J2lcgWUqS98" target="_blank")
-                span(style="color: #12263F !important;") Ir al sitio web
-                i.fas.fa-link(style="color: #12263F !important;")
+                span(style="color: #12263F !important;") Ver video
+                i.fas.fa-file-video(style="color: #12263F !important;")
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_4_5 4.5 Clases de rutas
+    #t_4_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 4.5 Clases de rutas
 
     .row.justify-content-center.align-items-center
       .col-md-7.mb-4.mb-md-0(data-aos="fade-down-left")

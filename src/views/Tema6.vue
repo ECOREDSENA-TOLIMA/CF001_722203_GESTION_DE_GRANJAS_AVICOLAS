@@ -20,9 +20,8 @@
     p A continuación, se revisarán otros temas que son vitales para entender cómo cada ser humano es responsable del cuidado del medio ambiente en el planeta y cómo impacta la sociedad en general. 
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_6_1 6.1 Importancia ambiental y económica 
+    #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 6.1 Importancia ambiental y económica 
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-5
       .col-12.col-md-3.col-lg-1
@@ -39,9 +38,8 @@
             p.mb-0 Como consecuencia del cambio climático, se han desarrollado iniciativas internacionales que promueven el cuidado del medio ambiente, con el fin de reducir las emisiones que se lanzan a la atmósfera, esto necesariamente ha llevado a la creación de entidades certificadoras que determinan si una empresa (para este caso: sector avícola), país o población está cumpliendo con lo pactado a nivel mundial, a continuación, se tocarán esos temas.  
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_6_2 6.2 Regulaciones, entidades certificadoras y requerimientos para ingresar a los mercados internacionales
+    #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 6.2 Regulaciones, entidades certificadoras y requerimientos para ingresar a los mercados internacionales
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
