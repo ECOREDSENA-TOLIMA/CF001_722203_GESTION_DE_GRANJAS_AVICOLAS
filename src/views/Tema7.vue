@@ -115,16 +115,75 @@
         figure
           img(src='@/assets/curso/temas/tema7/img-3.png', alt='')  
       .col-12.col-md-7.mb-lg-0(data-aos="fade-left")
-        p Para el recurso suelo, la mayoría de contaminación producida se da por el inadecuado manejo de la pollinaza y gallinaza, ósea cuando son utilizadas como productos de abono y no se les ha realizado ningún tipo de proceso que cumpla con los parámetros que se establecen para los abonos o fertilizantes orgánicos (véase la Norma Técnica Colombiana para Productos Orgánicos Usados como Abonos o Fertilizantes: NTC 5167 / ICONTEC y las Resoluciones ICA 150 de 2003 y 0968 de 2010). 
+        p Para el recurso suelo, la mayoría de contaminación producida se da por el inadecuado manejo de la pollinaza y gallinaza, ósea cuando son utilizadas como productos de abono y no se les ha realizado ningún tipo de proceso que cumpla con los parámetros que se establecen para los abonos o fertilizantes orgánicos. La Norma Técnica Colombiana NTC 5167, conocida como "Productos Orgánicos Usados como Abonos o Fertilizantes", establece las especificaciones y requisitos técnicos para el uso seguro y efectivo de los productos orgánicos que se utilizan como abonos o fertilizantes en Colombia. Esta norma tiene como objetivo regular la producción, comercialización y uso de estos productos para garantizar su calidad y minimizar el impacto ambiental negativo asociado con su aplicación.
+        //- Para el recurso suelo, la mayoría de contaminación producida se da por el inadecuado manejo de la pollinaza y gallinaza, ósea cuando son utilizadas como productos de abono y no se les ha realizado ningún tipo de proceso que cumpla con los parámetros que se establecen para los abonos o fertilizantes orgánicos (véase la Norma Técnica Colombiana para Productos Orgánicos Usados como Abonos o Fertilizantes: NTC 5167 / ICONTEC y las Resoluciones ICA 150 de 2003 y 0968 de 2010). 
 
-    p.mb-5 Aplicar erróneamente abonos o fertilizantes orgánicos en el suelo pueden causar graves problemas a corto, mediano o largo plazo como se mencionará a continuación: 
+    p.mb-4(data-aos="fade-right") A continuación, se proporciona un resumen de los aspectos más relevantes de la NTC 5167:
+
+    ul.lista-ul.mb-4(data-aos="fade-down")
+      li 
+        i.fas.fa-angle-right
+        | #[b Definiciones y términos:] la norma define claramente los términos y conceptos relacionados con los productos orgánicos utilizados como abonos o fertilizantes.
+      li 
+        i.fas.fa-angle-right
+        | #[b Requisitos de calidad:] establece los requisitos mínimos de calidad que deben cumplir estos productos, incluyendo parámetros como contenido de nutrientes (nitrógeno, fósforo, potasio, etc.), humedad, densidad aparente, y otros aspectos importantes para su eficacia como fertilizantes.
+      li 
+        i.fas.fa-angle-right
+        | #[b Etiquetado y marcado:] la norma establece requisitos específicos para el etiquetado y el marcado de los productos, lo que garantiza que los usuarios puedan identificar fácilmente su contenido y origen.
+      li 
+        i.fas.fa-angle-right
+        | #[b Requisitos para la producción y almacenamiento:] define prácticas adecuadas de producción y almacenamiento de estos productos, incluyendo pautas para prevenir la contaminación y mantener la calidad.
+      li 
+        i.fas.fa-angle-right
+        | #[b Instrucciones de uso:] proporciona directrices sobre cómo aplicar estos productos de manera segura y efectiva en diferentes tipos de cultivos y suelos.
+      li 
+        i.fas.fa-angle-right
+        | #[b Control de calidad:] establece métodos y procedimientos para el control de calidad durante la producción y la comercialización de estos productos.
+      li 
+        i.fas.fa-angle-right
+        | #[b Regulación y cumplimiento:] establece la responsabilidad de las autoridades competentes para regular y hacer cumplir esta norma, así como las sanciones en caso de incumplimiento.
+
+    p.mb-3(data-aos="fade-right") La NTC 5167 es una herramienta importante para promover la agricultura sostenible y la gestión adecuada de los recursos naturales en Colombia al regular el uso de productos orgánicos como abonos y fertilizantes. Ayuda a garantizar que estos productos sean seguros tanto para los cultivos como para el medio ambiente, y que cumplan con estándares de calidad definidos.
+    p.mb-5(data-aos="fade-right") Adicional a esta norma, el Instituto Colombiano Agropecuario (ICA) regula el manejo y uso de estos materiales para prevenir la contaminación del suelo y salvaguardar la salud pública, por medio de las siguientes resoluciones:
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-11.col-lg-10.mb-4.mb-md-0(data-aos="fade-left")
+        .tarjeta.color-primario.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema1/decorador-2.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4 La Resolución ICA 150 de 2003   
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.ica.gov.co/getattachment/27356680-bbc6-4e12-b757-1b62ac5b9068/2003R150.aspx" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-11.col-lg-10.mb-4.mb-md-0(data-aos="fade-left")
+        .tarjeta.color-primario.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema1/decorador-2.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4 La Resolución 0968 de 2010   
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.ica.gov.co/getattachment/57fca054-a919-4e7f-bd8f-69803492eb3a/2010R968.aspx" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+
+    p.mb-5(data-aos="fade-right") Aplicar erróneamente abonos o fertilizantes orgánicos en el suelo pueden causar graves problemas a corto, mediano o largo plazo como se mencionará a continuación: 
     
     ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema7/img-4.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema7/img-4.svg', alt='')
 
-      .tarjeta.color-acento-contenido.p-3(x="18.5%" y="50%" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="18.5%" y="50%" numero="+")
         h5(style="color: #000") Acción mecánica del estiércol
         ul.lista-ul.mb-3(style="color: #000")
           li(style="color: #000")
@@ -134,11 +193,11 @@
             i.lista-ul__vineta(style="color: #000")
             | En un suelo anegado, el agua se convierte en un obstáculo para su oxigenación y da paso a la formación de zonas anaeróbicas donde prosperan microorganismos que producen gases como: el metano, el amoniaco y el gas sulfhídrico, alterando por completo la bioquímica del suelo.
 
-      .tarjeta.color-acento-contenido.p-3(x="51%" y="50%" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="51%" y="50%" numero="+")
         h5(style="color: #000") El exceso de nutrientes
         p(style="color: #000") Los microorganismos a través de su acción química en el suelo, convierten los componentes nitrogenados que se encuentran en la gallinaza o pollinaza en nitratos y nitritos, que normalmente ayudan a crecer el material vegetal, por lo que estos subproductos son utilizados con frecuencia para abonar, sin embargo, en concentraciones altas se convierten en componentes tóxicos afectando los suelos y aguas subterráneas.
 
-      .tarjeta.color-acento-contenido.p-3(x="84.8%" y="50%" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="84.8%" y="50%" numero="+")
         h5(style="color: #000") La acción biológica
         p(style="color: #000") A causa de las acciones anteriores, se puede presentar la diseminación de patógenos procedentes de la gallinaza o pollinaza, que se propaguen debido a un ambiente propicio (por ejemplo E. coli)
 
