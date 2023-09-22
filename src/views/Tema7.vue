@@ -155,7 +155,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4 La Resolución ICA 150 de 2003   
+                  h4 La Resolución ICA 00150 de 2003   
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.ica.gov.co/getattachment/27356680-bbc6-4e12-b757-1b62ac5b9068/2003R150.aspx" target="_blank")
                     span Descargar
