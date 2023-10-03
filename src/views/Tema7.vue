@@ -77,7 +77,7 @@
 
     p Las dos últimas, sólo se llevarán a cabo en las áreas o lugares en que se presenten efectos adversos significativos que resulten de la ejecución o modificación de los planes de mitigación ambientales originales. 
     p  Por otro lado, las medidas de mitigación están hechas para disminuir y soportar los efectos e impactos en el ambiente productos de la actividad avícola y todo lo que ella conlleva, es decir, el uso del suelo, el agua, el aire, ya sea en la elaboración o adecuación de la infraestructura, el transporte, la generación de residuos y disposición de los mismos, y como tal el manejo de la producción por parte de administrativos, operarios, profesionales y demás personal que interactúa en el proceso. 
-    p.mb-5 Si la aplicación y evaluación del impacto ambiental del proyecto o actividad se deducen eventuales situaciones de riesgo al medio ambiente, el titular del proyecto o actividad deberá proponer medidas de prevención de riesgos y de control de accidentes, las cuales se mencionan en la siguiente figura: 
+    p.mb-5 Si la aplicación y evaluación del impacto ambiental del proyecto o actividad se deducen eventuales situaciones de riesgo al medio ambiente, el titular del proyecto o actividad deberá proponer medidas de prevención de riesgos y de control de accidentes, las cuales se mencionan en la siguiente información: 
 
     .row(data-aos="fade-right")
       .col-md-6.d-flex.align-items-stretch
@@ -115,7 +115,7 @@
         figure
           img(src='@/assets/curso/temas/tema7/img-3.png', alt='')  
       .col-12.col-md-7.mb-lg-0(data-aos="fade-left")
-        p Para el recurso suelo, la mayoría de contaminación producida se da por el inadecuado manejo de la pollinaza y gallinaza, ósea cuando son utilizadas como productos de abono y no se les ha realizado ningún tipo de proceso que cumpla con los parámetros que se establecen para los abonos o fertilizantes orgánicos. La Norma Técnica Colombiana NTC 5167, conocida como "Productos Orgánicos Usados como Abonos o Fertilizantes", establece las especificaciones y requisitos técnicos para el uso seguro y efectivo de los productos orgánicos que se utilizan como abonos o fertilizantes en Colombia. Esta norma tiene como objetivo regular la producción, comercialización y uso de estos productos para garantizar su calidad y minimizar el impacto ambiental negativo asociado con su aplicación.
+        p Para el recurso suelo, la mayoría de contaminación producida se da por el inadecuado manejo de la pollinaza y gallinaza, ósea cuando son utilizadas como productos de abono y no se les ha realizado ningún tipo de proceso que cumpla con los parámetros que se establecen para los abonos o fertilizantes orgánicos. La Norma Técnica Colombiana NTC 5167, conocida como "Productos Orgánicos Usados como Abonos o Fertilizantes y enmiendas o acondicionadores de suelo", establece las especificaciones y requisitos técnicos para el uso seguro y efectivo de los productos orgánicos que se utilizan como abonos o fertilizantes en Colombia. Esta norma tiene como objetivo regular la producción, comercialización y uso de estos productos para garantizar su calidad y minimizar el impacto ambiental negativo asociado con su aplicación.
         //- Para el recurso suelo, la mayoría de contaminación producida se da por el inadecuado manejo de la pollinaza y gallinaza, ósea cuando son utilizadas como productos de abono y no se les ha realizado ningún tipo de proceso que cumpla con los parámetros que se establecen para los abonos o fertilizantes orgánicos (véase la Norma Técnica Colombiana para Productos Orgánicos Usados como Abonos o Fertilizantes: NTC 5167 / ICONTEC y las Resoluciones ICA 150 de 2003 y 0968 de 2010). 
 
     p.mb-4(data-aos="fade-right") A continuación, se proporciona un resumen de los aspectos más relevantes de la NTC 5167:
@@ -428,7 +428,7 @@
             | Los sistemas que llevan el agua hacia las áreas operativas, administrativas y domésticas no se encuentran separadas. No se tienen separadas las redes de aguas lluvias y residuales lo que causa limitaciones en el aprovechamiento y uso de estas dentro del proceso productivo.
           li 
             i.fas.fa-check
-            | Tuberías de conducción de agua y sistemas de almacenamiento alteradas y con slide de fugas.
+            | Tuberías de conducción de agua y sistemas de almacenamiento alteradas y con #[em slide] de fugas.
           li 
             i.fas.fa-check
             | Ausencia de programas de mantenimiento preventivo.

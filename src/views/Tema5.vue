@@ -84,7 +84,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 1.
         span <em>Clasificación de los residuos sólidos en el sector avícola</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema5/img-2.svg" data-aos="fade-left" alt="En la figura 1 se muestra la clasificación de los residuos sólidos en el sector avícola.")
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema5/img-2.svg" data-aos="fade-left" alt="Figura 1. Muestra la clasificación de los residuos sólidos en el sector avícola, divididos en residuos orgánicos, residuos convencionales no peligrosos y residuos peligrosos.")
       
     .tarjeta.color-primario.p-3.mt-3.caja_flotante_azul.col-12.col-lg-10.m-auto.mb-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
@@ -120,7 +120,7 @@
       .col-12.col-md-7.mb-lg-0(data-aos="fade-left")
         p De acuerdo a la resolución ICA 30292 (2007), la sanitización es una serie de procesos físicos y/o químicos y/o biológicos, a los cuales debe ser sometida la gallinaza y pollinaza, cuyo propósito es reducir la presencia de microorganismos patógenos en estos subproductos, antes de ser retirados de la granja o reutilizados en la misma granja.
         p Como parte de su aprendizaje se hace necesario conocer ¿Cómo se sanitiza la cama? Para sanitizar la gallinaza se requiere que todo el material esté expuesto y que conserve la misma temperatura, pero este proceso debe ser controlado y por tiempo mínimo definido específico.
-        p En la siguiente figura, se especifican los pasos a seguir para hacer una correcta sanitización de la gallinaza o pollinaza.
+        p A continuación, se especifican los pasos a seguir para hacer una correcta sanitización de la gallinaza o pollinaza.
 
     //- .col-xl-12.mx-auto
     //-   .titulo-sexto.color-primario(data-aos="fade-right")
@@ -282,22 +282,22 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 3.
         span <em>Proceso elaboración compostaje.</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema5/img-7.svg" data-aos="fade-left" alt="En la figura 3 se muestra el proceso de elaboración del compostaje.")
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema5/img-7.svg" data-aos="fade-left" alt="Figura 3. Proceso elaboración compostaje. Muestra los 4 pasos de manera detallada para la elaboración del compostaje.")
 
-    p.mb-5 A continuación, se describe el procedimiento para hacer un correcto volteo del compost, la verificación de la humedad y el control del tiempo en las etapas que garanticen la calidad del producto, además de cómo realizar la clasificación del material que va a ser retirado y el que seguirá dentro del proceso, puede revisar la siguiente figura: 
+    p.mb-5 A continuación, se describe el procedimiento para hacer un correcto volteo del compost, la verificación de la humedad y el control del tiempo en las etapas que garanticen la calidad del producto, además de cómo realizar la clasificación del material que va a ser retirado y el que seguirá dentro del proceso, puede revisar la siguiente información: 
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 4.
         span <em>Correcto volteo del compost.</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema5/img-8.svg" data-aos="fade-left" alt="En la figura 4 se muestra el correcto volteo del compost.")
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema5/img-8.svg" data-aos="fade-left" alt="Figura 4. Métodos de compostaje como son el apilamiento y el encajonamiento.")
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-12.col-lg-10.mb-4.mb-md-0(data-aos="fade-left")
         .tarjeta.color-primario.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/decorador-2.svg")
+              img(src="@/assets/curso/temas/tema4/decorador-4.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0

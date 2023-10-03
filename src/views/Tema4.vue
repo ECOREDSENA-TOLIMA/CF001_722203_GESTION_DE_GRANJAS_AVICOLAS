@@ -150,7 +150,7 @@
       li  
         i.lista-ul__vineta
         | Recipientes adecuados: los contenedores o recolectores utilizados deben ser impermeables y contar con tapa para evitar el ingreso de plagas y la humedad de su contenido.
-    p.mb-5 Cumplir con estas directrices asegura un manejo eficiente y seguro de los residuos sólidos, reduciendo riesgos y promoviendo un entorno limpio y saludable. A continuación, se describen algunos tipos de productos sólidos que, según su naturaleza, pueden clasificarse tal como se indica en la siguiente infografía interactiva.
+    p.mb-5 Cumplir con estas directrices asegura un manejo eficiente y seguro de los residuos sólidos, reduciendo riesgos y promoviendo un entorno limpio y saludable. A continuación, se describen algunos tipos de productos sólidos que, según su naturaleza, pueden clasificarse tal como se indica a continuación.
 
     ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)

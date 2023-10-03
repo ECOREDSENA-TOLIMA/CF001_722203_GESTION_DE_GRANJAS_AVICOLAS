@@ -238,6 +238,14 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=J2lcgWUqS98',
     },
+    {
+      tema: '5. Plan de Gestión Integral de Residuos Sólidos (PGIRS)',
+      referencia:
+        'Federación Nacional de Avicultores de Colombia. (s.f.). Guía rápida. Alternativas para el manejo de residuos sólidos ordinarios en granjas.',
+      tipo: 'Guía',
+      link:
+        'https://fenavi.org/wp-content/uploads/2018/05/Guia_Rapida_Ambiental_Manejo_Residuos_Solidos.pdf',
+    },
   ],
   glosario: [
     {
